@@ -1,1245 +1,0 @@
-2020-10-23 18:33:40,500 - start_pytomo.py:1256 - CRITICAL - Log level set to DEBUG
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoIpCount: .1.3.6.1.3.53.5.9.3.1.1.2
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoBufferingDuration: .1.3.6.1.3.53.5.9.2.1.1.23
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoCacheUrl: .1.3.6.1.3.53.5.9.2.1.1.4
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoPingMax: .1.3.6.1.3.53.5.9.2.1.1.12
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_SWITCH_PROXY: 306
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - DELAY_BETWEEN_REQUESTS: 10
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - MAX_NB_TRIES_ENCODING: 9
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - RRD_DIR: rrds
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - INPUT_FILE: None
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - DOWNLOAD_TIME: 30.0
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_MOVED_PERMANENTLY: 301
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoResolver: .1.3.6.1.3.53.5.9.2.1.1.7
-2020-10-23 18:33:40,500 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoCacheServerDelay: .1.3.6.1.3.53.5.9.2.1.1.5
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - CRITICAL: 50
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoVideoDuration: .1.3.6.1.3.53.5.9.2.1.1.15
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - SEP_LINE: ################################################################################
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - BATCH_MODE: False
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoContact: .1.3.6.1.3.53.5.9.1.3
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - NAME_TO_LEVEL: {'DEBUG': 10, 'INFO': 20, 'WARNING': 30, 'CRITICAL': 50, 'ERROR': 40}
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoSleepTime: .1.3.6.1.3.53.5.9.1.5
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - DOWNLOADED_BY_IP: {}
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - INITIAL_PLAYBACK_DURATION: 2000
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDownloadInterruptions: .1.3.6.1.3.53.5.9.2.1.1.19
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - CENTRALISATION_SERVER: pytomo.dtdns.net
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - NB_DOWNLOAD_VALUES: 15
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoAddressIp: .1.3.6.1.3.53.5.9.2.1.1.6
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_TEMPORARY_REDIRECT: 307
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - IPADDR_TIMEOUT: 5
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - LOG_PUBLIC_IP: True
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - MAX_ROUND_DURATION: 600
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_CODE_LIST: (300, 301, 302, 303, 304, 305, 306, 307, 308)
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - MAX_ROUNDS: 10000
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoVideoLength: .1.3.6.1.3.53.5.9.2.1.1.16
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - RRD_FILE: pytomo.rrd
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - OPEN_DNS: ('open_dns', '208.67.220.220')
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - LOOP: False
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - DATABASE_DIR: databases
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - AS_IDX: 8
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDescr: .1.3.6.1.3.53.5.9.1.2
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_MULTIPLE_CHOICES: 300
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - BlackListException: <class 'pytomo.config_pytomo.BlackListException'>
-2020-10-23 18:33:40,501 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoPlaybackDuration: .1.3.6.1.3.53.5.9.2.1.1.24
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - RESULT_FILE: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoObjectName: .1.3.6.1.3.53.5.9.1.1
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - TABLE_TIMESTAMP: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDescr_str: Pytomo  is a YouTube crawler designed to figure out network information out of YouTube video download
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - STATS_IDX: (2, 0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28)
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoVideoType: .1.3.6.1.3.53.5.9.2.1.1.14
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - RTT: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - MAX_CRAWLED_URLS: 10000
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - WARNING: 30
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - LOG_DIR: logs
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoEncodingRate: .1.3.6.1.3.53.5.9.2.1.1.17
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoRedirectUrl: .1.3.6.1.3.53.5.9.2.1.1.28
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - EXTRA_COUNTRY: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - IMAGE_DIR: plots
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - MIN_PLAYOUT_RESTART: 1.0
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - EXTRA_NAME_SERVERS_CC: []
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - AS_URL_TIMEOUT: 15
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - LEVEL_TO_NAME: {40: 'ERROR', 10: 'DEBUG', 20: 'INFO', 50: 'CRITICAL', 30: 'WARNING'}
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - NB_RELATED_VALUES: 2
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoResolveTime: .1.3.6.1.3.53.5.9.2.1.1.8
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - ERROR: 40
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - DEBUG: 10
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoBufferDurationAtEnd: .1.3.6.1.3.53.5.9.2.1.1.25
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - GOOGLE_PUBLIC_DNS: ('google_public_dns', '8.8.8.8')
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - DATABASE_TIMESTAMP: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - ROOT_OID: .1.3.6.1.3.53.5.9
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - TS_IDX: 0
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - PROVIDER: 
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - PROXIES: None
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - BLACK_LISTED: das_captcha
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDownloadTime: .1.3.6.1.3.53.5.9.2.1.1.13
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoUrlStats: .1.3.6.1.3.53.5.9.2.1.1
-2020-10-23 18:33:40,502 - start_pytomo.py:1263 - CRITICAL - DEMO: False
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - CRAWLED_URLS_MODULO: 5
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoInitialData: .1.3.6.1.3.53.5.9.2.1.1.20
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoASCount: .1.3.6.1.3.53.5.9.4.1.1.2
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoGblStats: .1.3.6.1.3.53.5.9.1
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoIpName: .1.3.6.1.3.53.5.9.3.1.1.1
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - URL_TIMEOUT: 5
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - STATIC_URL_LIST: []
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - NB_FIELDS: 28
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - RELATED: True
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - NB_PING_VALUES: 3
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - CRAWL_SERVICE: youtube
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - TABLE: pytomo_crawl
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - DNS_TIMEOUT: 4.0
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - DOC_DIR: templates/doc/
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - COLUMN_NAMES: ['DownloadBytes', 'MaxInstantThp']
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoASStats: .1.3.6.1.3.53.5.9.4.1.1
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - MAX_PER_PAGE: 10
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - IP_IDX: 5
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - USER_INPUT_TIMEOUT: 10
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - TIME_FRAME: today
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - STD_HEADERS: {'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7', 'Cookie': 'YSC=h9wy7hcXxIo; VISITOR_INFO1_LIVE=d5TlLfzb2K0; PREF=f1=50000000; s_gl=1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==', 'Accept-Language': 'en-us,en;q=0.5', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:10.0)     Gecko/20100101 Firefox/10.0'}
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoASName: .1.3.6.1.3.53.5.9.4.1.1.1
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoAsNumber: .1.3.6.1.3.53.5.9.2.1.1.9
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - IMAGE_FILE: pytomo_image.png
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - FREQ_FULL_DOWNLOAD: None
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - WEB_DEFAULT_PORT: 5555
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - INFO: 20
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - PLOT: False
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_PERMANENT_REDIRECT: 308
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - DOWNLOAD_FROM_EXTRA_IPS: False
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - DATABASE: pytomo_database.db
-2020-10-23 18:33:40,503 - start_pytomo.py:1263 - CRITICAL - EXTRA_NAME_SERVERS: [('google_public_dns', '8.8.8.8'), ('open_dns', '208.67.220.220')]
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - SNMP: False
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoIpStats: .1.3.6.1.3.53.5.9.3.1.1
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - INITIAL_BUFFER: 2.0
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - CENTRALISE_DATA: False
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_USE_PROXY: 305
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_FOUND: 302
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - PING_PACKETS: 10
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - HD_FIRST: False
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - SKIP_COMPUTED: False
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - RESULT_DIR: results
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - LOG: <logging.Logger object at 0x7f7aec493750>
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - MAX_DOWNLOAD_TIME: 600.0
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - PDF_DIR: pdfs
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoStatusCode: .1.3.6.1.3.53.5.9.2.1.1.29
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - RRD_PLOT_DIR: images
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoUrlIndex: .1.3.6.1.3.53.5.9.2.1.1.1
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - LOG_LEVEL: 10
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - PDF_FILE: report.pdf
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - DOWNLOADED_BY_AS: {}
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoTimeTogetFirstByte: .1.3.6.1.3.53.5.9.2.1.1.26
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDownloadDuration: .1.3.6.1.3.53.5.9.1.4
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoPingMin: .1.3.6.1.3.53.5.9.2.1.1.10
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoInitialPlaybackBuffer: .1.3.6.1.3.53.5.9.2.1.1.22
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - MIN_PLAYOUT_BUFFER: 0.1
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - TEMPLATE_FILE: index.html
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoInitialRate: .1.3.6.1.3.53.5.9.2.1.1.21
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - URL_IDX: 2
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - MAX_PER_URL: 10
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - TEMPLATES_DIR: templates
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - USE_PACKAGE_DIR: False
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - MAX_NB_REDIRECT: 10
-2020-10-23 18:33:40,504 - start_pytomo.py:1263 - CRITICAL - LOG_FILE: pytomo.log
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoContact_str: Jean-Luc Sire / Pascal Beringuie 
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoService: .1.3.6.1.3.53.5.9.2.1.1.3
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - NB_IDENT_VALUES: 8
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - LOG_FILE_TIMESTAMP: /home/davide_galv/pytomo/logs/test.youtube.2020-10-23.18_33_40.pytomo.log
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - SYSTEM: None
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoTimeStamp: .1.3.6.1.3.53.5.9.2.1.1.2
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoObjectName_str: Pytomo instance
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_SEE_OTHER: 303
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoPingAvg: .1.3.6.1.3.53.5.9.2.1.1.11
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - HTTP_OK: 200
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoMaxInstantThp: .1.3.6.1.3.53.5.9.2.1.1.27
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - snmp_pytomoDownloadBytes: .1.3.6.1.3.53.5.9.2.1.1.18
-2020-10-23 18:33:40,505 - start_pytomo.py:1263 - CRITICAL - HTTP_REDIRECT_NOT_MODIFIED: 304
-2020-10-23 18:33:40,505 - start_pytomo.py:1444 - CRITICAL - Offset between local time and UTC: 0
-2020-10-23 18:33:40,505 - start_pytomo.py:1445 - WARNING - Pytomo version = 3.0.5
-2020-10-23 18:33:40,507 - start_pytomo.py:1448 - WARNING - Pytomo is running on this system: Linux
-2020-10-23 18:33:44,823 - start_pytomo.py:1373 - CRITICAL - User has given this provider: 
-2020-10-23 18:33:45,989 - start_pytomo.py:1359 - CRITICAL - The Proxies have been set to: None
-
-2020-10-23 18:33:46,995 - start_pytomo.py:1316 - CRITICAL - The Max Crawls has been set to: 10000
-2020-10-23 18:33:47,503 - start_pytomo.py:1209 - CRITICAL - Machine has this public IP address: 34.84.17.201
-2020-10-23 18:33:47,504 - start_pytomo.py:1501 - DEBUG - Service for most popular links youtube
-2020-10-23 18:33:47,504 - start_pytomo.py:924 - CRITICAL - Start crawl
-2020-10-23 18:33:47,508 - lib_database.py:213 - INFO - Created connection to data base Database: test.youtube.2020-10-23.18_33_40.pytomo_database.db
-2020-10-23 18:33:47,520 - lib_database.py:264 - INFO - Creating table : pytomo_crawl_2020_10_23_18_33_40
-2020-10-23 18:33:47,521 - start_pytomo.py:939 - DEBUG - STATIC_URL_LIST: ['https://www.youtube.com/watch?v=kJQP7kiw5Fk', 'https://www.youtube.com/watch?v=pRpeEdMmmQ0', 'https://www.youtube.com/watch?v=7CZq5SkIiu0', 'https://www.youtube.com/watch?v=c8rNJhJVBjw', 'https://www.youtube.com/watch?v=Q1kJvRhMfrg', 'https://www.youtube.com/watch?v=wtD4kt21ui4', 'https://www.youtube.com/watch?v=YTZ-GZPTND8', 'https://www.youtube.com/watch?v=OaPt-19C2No', 'https://www.youtube.com/watch?v=O6N-qYPE6qc', 'https://www.youtube.com/watch?v=nRxFGIoV_Aw', 'https://www.youtube.com/watch?v=hoXj-j0VSTA', 'https://www.youtube.com/watch?v=_luhn7TLfWU', 'https://www.youtube.com/watch?v=XSpURiqvPMs', 'https://www.youtube.com/watch?v=6Dh-RL__uN4', 'https://www.youtube.com/watch?v=UoIXfcM5568', 'https://www.youtube.com/watch?v=boq2DyeaYPA']
-2020-10-23 18:33:47,521 - start_pytomo.py:881 - WARNING - Round 0 started
-################################################################################
-2020-10-23 18:33:47,521 - start_pytomo.py:892 - INFO - Name servers at round [('_google_public_dns', '8.8.8.8'), ('_open_dns', '208.67.220.220')]:
-2020-10-23 18:33:47,521 - start_pytomo.py:864 - DEBUG - input_links: set(['https://www.youtube.com/watch?v=pRpeEdMmmQ0', 'https://www.youtube.com/watch?v=7CZq5SkIiu0', 'https://www.youtube.com/watch?v=_luhn7TLfWU', 'https://www.youtube.com/watch?v=c8rNJhJVBjw', 'https://www.youtube.com/watch?v=OaPt-19C2No', 'https://www.youtube.com/watch?v=wtD4kt21ui4', 'https://www.youtube.com/watch?v=hoXj-j0VSTA', 'https://www.youtube.com/watch?v=nRxFGIoV_Aw', 'https://www.youtube.com/watch?v=Q1kJvRhMfrg', 'https://www.youtube.com/watch?v=UoIXfcM5568', 'https://www.youtube.com/watch?v=O6N-qYPE6qc', 'https://www.youtube.com/watch?v=kJQP7kiw5Fk', 'https://www.youtube.com/watch?v=boq2DyeaYPA', 'https://www.youtube.com/watch?v=XSpURiqvPMs', 'https://www.youtube.com/watch?v=YTZ-GZPTND8', 'https://www.youtube.com/watch?v=6Dh-RL__uN4'])
-2020-10-23 18:33:47,521 - start_pytomo.py:761 - DEBUG - Crawl of url# 0: https://www.youtube.com/watch?v=pRpeEdMmmQ0
-2020-10-23 18:33:47,521 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:33:47,521 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:33:47,522 - lib_youtube_download.py:299 - DEBUG - Download webpage pRpeEdMmmQ0
-2020-10-23 18:33:49,588 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:33:49,588 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:33:49,588 - lib_youtube_download.py:341 - ERROR - Uncaught exception: list index out of range
-Traceback (most recent call last):
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 336, in get_cache_url
-    req_format=None)
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 182, in get_video_url_list
-    cache_url = video_info['player_response'][0].split('formats')[1].split('"url":"')[1].split('"')[0].replace('\u0026','&')
-IndexError: list index out of range
-2020-10-23 18:33:49,588 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=pRpeEdMmmQ0 the cache urls are []
-2020-10-23 18:33:49,588 - start_pytomo.py:793 - ERROR - Error retrieving cache for: https://www.youtube.com/watch?v=pRpeEdMmmQ0
-2020-10-23 18:33:49,588 - start_pytomo.py:761 - DEBUG - Crawl of url# 0: https://www.youtube.com/watch?v=7CZq5SkIiu0
-2020-10-23 18:33:49,589 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:33:49,589 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:33:49,590 - lib_youtube_download.py:299 - DEBUG - Download webpage 7CZq5SkIiu0
-2020-10-23 18:33:51,650 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:33:51,650 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:33:51,650 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r2---sn-ogul7n7k.googlevideo.com/videoplayback?expire=1603499631&ei=DyKTX4XtHeONs8IPlZieYA&ip=34.84.17.201&id=o-ACvqO7wGGbzNjRTIPz4jcooneTbN_GB-XsCLwpuuJelj&itag=18&source=youtube&requiressl=yes&mh=cw&mm=31%2C29&mn=sn-ogul7n7k%2Csn-ogueln7s&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=963750&vprv=1&mime=video%2Fmp4&ns=-EuNgRWThPf0orSU9KsML38F&gir=yes&clen=69090607&ratebypass=yes&dur=1155.215&lmt=1569891044580272&mt=1603477835&fvip=6&fexp=23915654&c=WEB&txp=3531432&n=9eKSMhT3nMbHSeywVsCH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANwUfTrGoMlmaUM7uJD8rpT6rFAiYknSY8VTaeeUaAs5AiEAsB1hDGRIXsPzBtgt_6uCbG2o_KtVFNTlY_VRVJ4TK58%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgcNE9um6iBZ0J0hLS4iJ10pICFYhdba4Nj_btT-N7YXsCIDCB4Agtl99yyIB93ZxuLPYujnztel6iRTlSoOSJU5a4
-2020-10-23 18:33:51,713 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:33:51,714 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=7CZq5SkIiu0 the cache urls are ['https://r2---sn-ogul7n7k.googlevideo.com/videoplayback?expire=1603499631&ei=DyKTX4XtHeONs8IPlZieYA&ip=34.84.17.201&id=o-ACvqO7wGGbzNjRTIPz4jcooneTbN_GB-XsCLwpuuJelj&itag=18&source=youtube&requiressl=yes&mh=cw&mm=31%2C29&mn=sn-ogul7n7k%2Csn-ogueln7s&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=963750&vprv=1&mime=video%2Fmp4&ns=-EuNgRWThPf0orSU9KsML38F&gir=yes&clen=69090607&ratebypass=yes&dur=1155.215&lmt=1569891044580272&mt=1603477835&fvip=6&fexp=23915654&c=WEB&txp=3531432&n=9eKSMhT3nMbHSeywVsCH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANwUfTrGoMlmaUM7uJD8rpT6rFAiYknSY8VTaeeUaAs5AiEAsB1hDGRIXsPzBtgt_6uCbG2o_KtVFNTlY_VRVJ4TK58%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgcNE9um6iBZ0J0hLS4iJ10pICFYhdba4Nj_btT-N7YXsCIDCB4Agtl99yyIB93ZxuLPYujnztel6iRTlSoOSJU5a4']
-2020-10-23 18:33:51,714 - translation_cache_url.py:90 - DEBUG - translating url: https://r2---sn-ogul7n7k.googlevideo.com
-2020-10-23 18:33:51,714 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:33:51,714 - translation_cache_url.py:100 - DEBUG - url translated as: https://r2---sn-ogul7n7k.googlevideo.com
-2020-10-23 18:33:51,714 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:33:51,718 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7k.googlevideo.com resolved as: 173.194.49.71
-2020-10-23 18:33:51,718 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:33:51,758 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7k.googlevideo.com resolved as: 173.194.49.71
-2020-10-23 18:33:51,758 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:33:51,797 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7k.googlevideo.com resolved as: 173.194.49.71
-2020-10-23 18:33:51,797 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.49.71
-2020-10-23 18:33:51,798 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:33:51,799 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:33:51,799 - lib_general_download.py:583 - DEBUG - Downloading url: https://r2---sn-ogul7n7k.googlevideo.com/videoplayback?expire=1603499631&ei=DyKTX4XtHeONs8IPlZieYA&ip=34.84.17.201&id=o-ACvqO7wGGbzNjRTIPz4jcooneTbN_GB-XsCLwpuuJelj&itag=18&source=youtube&requiressl=yes&mh=cw&mm=31%2C29&mn=sn-ogul7n7k%2Csn-ogueln7s&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=963750&vprv=1&mime=video%2Fmp4&ns=-EuNgRWThPf0orSU9KsML38F&gir=yes&clen=69090607&ratebypass=yes&dur=1155.215&lmt=1569891044580272&mt=1603477835&fvip=6&fexp=23915654&c=WEB&txp=3531432&n=9eKSMhT3nMbHSeywVsCH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANwUfTrGoMlmaUM7uJD8rpT6rFAiYknSY8VTaeeUaAs5AiEAsB1hDGRIXsPzBtgt_6uCbG2o_KtVFNTlY_VRVJ4TK58%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgcNE9um6iBZ0J0hLS4iJ10pICFYhdba4Nj_btT-N7YXsCIDCB4Agtl99yyIB93ZxuLPYujnztel6iRTlSoOSJU5a4, on this ip: 173.194.49.71
-2020-10-23 18:33:51,840 - lib_general_download.py:890 - DEBUG - Content-length: 69090607.0
-2020-10-23 18:33:51,840 - lib_general_download.py:900 - DEBUG - start time: 1603478031.84
-2020-10-23 18:33:51,840 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:33:51,840 - factory.py:377 - WARNING - Name <open file '/tmp/tmpSfNzO3', mode 'r' at 0x7f7aec3d2780> is not string or buffer
-2020-10-23 18:33:51,841 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:33:51,846 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:33:51,847 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:33:51,853 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:33:51,853 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:33:51,857 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:33:51,857 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:33:51,857 - lib_general_download.py:820 - DEBUG - Content-length: 69090607.0
-2020-10-23 18:33:51,857 - factory.py:377 - WARNING - Name <open file '/tmp/tmpSfNzO3', mode 'r' at 0x7f7aec703270> is not string or buffer
-2020-10-23 18:33:51,857 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:33:51,857 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:33:51,857 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:33:51,857 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:33:51,858 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:33:51,858 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:33:51,858 - factory.py:377 - WARNING - Name <open file '/tmp/tmpSfNzO3', mode 'r' at 0x7f7aec703270> is not string or buffer
-2020-10-23 18:33:51,858 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:33:51,858 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:33:51,858 - mp4.py:478 - DEBUG - moov [58A39]
-2020-10-23 18:33:51,858 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:33:51,858 - mp4.py:478 - DEBUG - trak [25781]
-2020-10-23 18:33:51,858 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 65.89M at 873.27kb/s ETA 01:16 Bytes 1024 Inst_thp 16892.6933963kb/s  cur_buf 0.0000002020-10-23 18:33:51,858 - factory.py:377 - WARNING - Name <open file '/tmp/tmpSfNzO3', mode 'r' at 0x7f7aec703270> is not string or buffer
-2020-10-23 18:33:51,858 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:33:51,858 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:33:51,859 - mp4.py:478 - DEBUG - moov [58A39]
-2020-10-23 18:33:51,859 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:33:51,859 - mp4.py:478 - DEBUG - trak [25781]
-2020-10-23 18:33:51,859 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:33:51,859 - lib_general_download.py:575 - DEBUG - Encoding rate is: 478.55kb/s
-[download]   0.0% of 65.89M at   1.78Mb/s ETA 00:36 Bytes 3072 Inst_thp 35847.4057047kb/s  cur_buf 0.000000[download]   0.0% of 65.89M at   3.98Mb/s ETA 00:16 Bytes 7168 Inst_thp 822987.745341kb/s  cur_buf 0.000000[download]   0.0% of 65.89M at   8.28Mb/s ETA 00:07 Bytes 15360 Inst_thp 2643056.79754kb/s  cur_buf 0.000000[download]   0.0% of 65.89M at  16.10Mb/s ETA 00:04 Bytes 31744 Inst_thp 1506180.31202kb/s  cur_buf 0.000000[download]   0.1% of 65.89M at  30.76Mb/s ETA 00:02 Bytes 64512 Inst_thp 2762592.02959kb/s  cur_buf 0.000000[download]   0.2% of 65.89M at  34.16Mb/s ETA 00:01 Bytes 130048 Inst_thp 333539.095336kb/s  cur_buf 0.000000[download]   0.4% of 65.89M at  39.70Mb/s ETA 00:01 Bytes 261120 Inst_thp 412188.05165kb/s  cur_buf 0.000000[download]   0.8% of 65.89M at  59.34Mb/s ETA 00:01 Bytes 523264 Inst_thp 1020546.81775kb/s  cur_buf 0.000000[download]   1.5% of 65.89M at  91.02Mb/s ETA 00:00 Bytes 1047552 Inst_thp 1692532.81166kb/s  cur_buf 0.000000[download]   3.0% of 65.89M at 137.08Mb/s ETA 00:00 Bytes 2096128 Inst_thp 2391867.57912kb/s  cur_buf 0.000000[download]   6.1% of 65.89M at  89.92Mb/s ETA 00:00 Bytes 4193280 Inst_thp 563391.652477kb/s  cur_buf 0.000000[download]  12.1% of 65.89M at  82.58Mb/s ETA 00:00 Bytes 8387584 Inst_thp 641994.938191kb/s  cur_buf 0.000000[download]  18.2% of 65.89M at  87.53Mb/s ETA 00:00 Bytes 12581888 Inst_thp 836936.026566kb/s  cur_buf 0.000000[download]  24.3% of 65.89M at  54.06Mb/s ETA 00:00 Bytes 16776192 Inst_thp 211345.158234kb/s  cur_buf 0.000000[download]  30.4% of 65.89M at  64.10Mb/s ETA 00:00 Bytes 20970496 Inst_thp 2108237.28736kb/s  cur_buf 0.000000[download]  36.4% of 65.89M at  72.23Mb/s ETA 00:00 Bytes 25164800 Inst_thp 1665492.98662kb/s  cur_buf 0.000000[download]  42.5% of 65.89M at  67.11Mb/s ETA 00:00 Bytes 29359104 Inst_thp 395502.222471kb/s  cur_buf 0.000000[download]  48.6% of 65.89M at  68.67Mb/s ETA 00:00 Bytes 33553408 Inst_thp 690336.337019kb/s  cur_buf 0.000000[download]  54.6% of 65.89M at  68.77Mb/s ETA 00:00 Bytes 37747712 Inst_thp 584785.857334kb/s  cur_buf 0.000000[download]  60.7% of 65.89M at  70.51Mb/s ETA 00:00 Bytes 41942016 Inst_thp 768347.746373kb/s  cur_buf 0.000000[download]  66.8% of 65.89M at  70.94Mb/s ETA 00:00 Bytes 46136320 Inst_thp 634959.432773kb/s  cur_buf 0.000000[download]  72.8% of 65.89M at  71.65Mb/s ETA 00:00 Bytes 50330624 Inst_thp 677430.245463kb/s  cur_buf 0.000000[download]  78.9% of 65.89M at  68.99Mb/s ETA 00:00 Bytes 54524928 Inst_thp 400846.162088kb/s  cur_buf 0.000000[download]  85.0% of 65.89M at  68.93Mb/s ETA 00:00 Bytes 58719232 Inst_thp 573189.409024kb/s  cur_buf 0.000000[download]  91.1% of 65.89M at  69.48Mb/s ETA 00:00 Bytes 62913536 Inst_thp 657734.799976kb/s  cur_buf 0.000000[download]  97.1% of 65.89M at  70.95Mb/s ETA 00:00 Bytes 67107840 Inst_thp 874287.079624kb/s  cur_buf 0.000000[download] 100.0% of 65.89M at  68.87Mb/s ETA 00:00 Bytes 69090606 Inst_thp 290738.603781kb/s  cur_buf 0.0000002020-10-23 18:33:52,814 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:33:52,814 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:33:55,137 - start_pytomo.py:253 - DEBUG - IP 173.194.49.71 resolved as AS: 15169
-2020-10-23 18:33:55,137 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:33:55,144 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:34:06,686 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=7CZq5SkIiu0
-2020-10-23 18:34:06,687 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=7CZq5SkIiu0
-2020-10-23 18:34:06,687 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=7CZq5SkIiu0
-2020-10-23 18:34:06,687 - start_pytomo.py:761 - DEBUG - Crawl of url# 1: https://www.youtube.com/watch?v=_luhn7TLfWU
-2020-10-23 18:34:06,687 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:34:06,687 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:06,688 - lib_youtube_download.py:299 - DEBUG - Download webpage _luhn7TLfWU
-2020-10-23 18:34:08,130 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:34:08,131 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:34:08,131 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r2---sn-ogul7n7s.googlevideo.com/videoplayback?expire=1603499648&ei=HyKTX9aXPMrNqAHz0aGADw&ip=34.84.17.201&id=o-AOnbMMz1TGFkIwmnMWlUeICcFkWBQOchIVyBEbjTrOZv&itag=18&source=youtube&requiressl=yes&mh=Zu&mm=31%2C26&mn=sn-ogul7n7s%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=2&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=Yy1RNatZ75tWZXbd9gpfUe8F&gir=yes&clen=5816057&ratebypass=yes&dur=107.856&lmt=1588481179276029&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=5531432&n=xGHyhmqIa5CnEtxwQrdO&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP7UklzVQ1bzmedLLZb0DBV_v5l5ZSrCcV9GVGATCEcXAiEA9TUGf7IINNXuvKIhMDczyg1CfM232gn59gXEWjqzbjY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgUW6E1ZvHBUJjBv25Pcx5g8yuWC3XymHTaP9MX3jFeZMCIQD08OsJyfNVnckKNHdkPN7dOO3vxRcXF4Kr0dAEUlVtfw%3D%3D
-2020-10-23 18:34:08,191 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:34:08,192 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=_luhn7TLfWU the cache urls are ['https://r2---sn-ogul7n7s.googlevideo.com/videoplayback?expire=1603499648&ei=HyKTX9aXPMrNqAHz0aGADw&ip=34.84.17.201&id=o-AOnbMMz1TGFkIwmnMWlUeICcFkWBQOchIVyBEbjTrOZv&itag=18&source=youtube&requiressl=yes&mh=Zu&mm=31%2C26&mn=sn-ogul7n7s%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=2&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=Yy1RNatZ75tWZXbd9gpfUe8F&gir=yes&clen=5816057&ratebypass=yes&dur=107.856&lmt=1588481179276029&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=5531432&n=xGHyhmqIa5CnEtxwQrdO&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP7UklzVQ1bzmedLLZb0DBV_v5l5ZSrCcV9GVGATCEcXAiEA9TUGf7IINNXuvKIhMDczyg1CfM232gn59gXEWjqzbjY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgUW6E1ZvHBUJjBv25Pcx5g8yuWC3XymHTaP9MX3jFeZMCIQD08OsJyfNVnckKNHdkPN7dOO3vxRcXF4Kr0dAEUlVtfw%3D%3D']
-2020-10-23 18:34:08,192 - translation_cache_url.py:90 - DEBUG - translating url: https://r2---sn-ogul7n7s.googlevideo.com
-2020-10-23 18:34:08,192 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:34:08,192 - translation_cache_url.py:100 - DEBUG - url translated as: https://r2---sn-ogul7n7s.googlevideo.com
-2020-10-23 18:34:08,192 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:34:08,194 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7s.googlevideo.com resolved as: 74.125.96.135
-2020-10-23 18:34:08,194 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:34:08,322 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7s.googlevideo.com resolved as: 74.125.96.135
-2020-10-23 18:34:08,322 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:34:08,393 - lib_dns.py:110 - DEBUG - URL r2---sn-ogul7n7s.googlevideo.com resolved as: 74.125.96.135
-2020-10-23 18:34:08,393 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.96.135
-2020-10-23 18:34:08,395 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:34:08,395 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:08,395 - lib_general_download.py:583 - DEBUG - Downloading url: https://r2---sn-ogul7n7s.googlevideo.com/videoplayback?expire=1603499648&ei=HyKTX9aXPMrNqAHz0aGADw&ip=34.84.17.201&id=o-AOnbMMz1TGFkIwmnMWlUeICcFkWBQOchIVyBEbjTrOZv&itag=18&source=youtube&requiressl=yes&mh=Zu&mm=31%2C26&mn=sn-ogul7n7s%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=2&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=Yy1RNatZ75tWZXbd9gpfUe8F&gir=yes&clen=5816057&ratebypass=yes&dur=107.856&lmt=1588481179276029&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=5531432&n=xGHyhmqIa5CnEtxwQrdO&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP7UklzVQ1bzmedLLZb0DBV_v5l5ZSrCcV9GVGATCEcXAiEA9TUGf7IINNXuvKIhMDczyg1CfM232gn59gXEWjqzbjY%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgUW6E1ZvHBUJjBv25Pcx5g8yuWC3XymHTaP9MX3jFeZMCIQD08OsJyfNVnckKNHdkPN7dOO3vxRcXF4Kr0dAEUlVtfw%3D%3D, on this ip: 74.125.96.135
-2020-10-23 18:34:08,433 - lib_general_download.py:890 - DEBUG - Content-length: 5816057.0
-2020-10-23 18:34:08,433 - lib_general_download.py:900 - DEBUG - start time: 1603478048.43
-2020-10-23 18:34:08,433 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:34:08,434 - factory.py:377 - WARNING - Name <open file '/tmp/tmpxH8reJ', mode 'r' at 0x7f7aec3d2f60> is not string or buffer
-2020-10-23 18:34:08,434 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:08,434 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:08,434 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:34:08,434 - lib_general_download.py:820 - DEBUG - Content-length: 5816057.0
-2020-10-23 18:34:08,434 - factory.py:377 - WARNING - Name <open file '/tmp/tmpxH8reJ', mode 'r' at 0x7f7aec3d26f0> is not string or buffer
-2020-10-23 18:34:08,434 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:08,434 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:08,435 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:08,435 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:08,435 - factory.py:377 - WARNING - Name <open file '/tmp/tmpxH8reJ', mode 'r' at 0x7f7aec3d26f0> is not string or buffer
-2020-10-23 18:34:08,435 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:08,435 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - moov [887E]
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - trak [39CA]
-2020-10-23 18:34:08,435 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 5.55M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 18572.8315503kb/s  cur_buf 0.0000002020-10-23 18:34:08,435 - factory.py:377 - WARNING - Name <open file '/tmp/tmpxH8reJ', mode 'r' at 0x7f7aec3d26f0> is not string or buffer
-2020-10-23 18:34:08,435 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:08,435 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - moov [887E]
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:08,435 - mp4.py:478 - DEBUG - trak [39CA]
-2020-10-23 18:34:08,435 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:34:08,436 - lib_general_download.py:575 - DEBUG - Encoding rate is: 434.85kb/s
-[download]   0.1% of 5.55M at   2.14Mb/s ETA 00:02 Bytes 3072 Inst_thp 34865.2850005kb/s  cur_buf 0.000000[download]   0.1% of 5.55M at   4.76Mb/s ETA 00:01 Bytes 7168 Inst_thp 858993.4592kb/s  cur_buf 0.000000[download]   0.3% of 5.55M at   9.79Mb/s ETA 00:00 Bytes 15360 Inst_thp 2432547.84906kb/s  cur_buf 0.000000[download]   0.5% of 5.55M at  18.91Mb/s ETA 00:00 Bytes 31744 Inst_thp 1636178.01752kb/s  cur_buf 0.000000[download]   1.1% of 5.55M at  35.60Mb/s ETA 00:00 Bytes 64512 Inst_thp 2568952.40135kb/s  cur_buf 0.000000[download]   2.2% of 5.55M at  33.60Mb/s ETA 00:00 Bytes 130048 Inst_thp 274912.270978kb/s  cur_buf 0.000000[download]   4.5% of 5.55M at  39.57Mb/s ETA 00:00 Bytes 261120 Inst_thp 415145.035974kb/s  cur_buf 0.000000[download]   9.0% of 5.55M at  57.46Mb/s ETA 00:00 Bytes 523264 Inst_thp 905134.083372kb/s  cur_buf 0.000000[download]  18.0% of 5.55M at  87.99Mb/s ETA 00:00 Bytes 1047552 Inst_thp 1642287.71886kb/s  cur_buf 0.000000[download]  36.0% of 5.55M at  64.32Mb/s ETA 00:00 Bytes 2096128 Inst_thp 427705.919901kb/s  cur_buf 0.000000[download]  72.1% of 5.55M at 107.28Mb/s ETA 00:00 Bytes 4193280 Inst_thp 2756747.79353kb/s  cur_buf 0.000000[download] 100.0% of 5.55M at  33.26Mb/s ETA 00:00 Bytes 5816056 Inst_thp 100345.398954kb/s  cur_buf 0.0000002020-10-23 18:34:08,601 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:34:08,601 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:34:13,831 - start_pytomo.py:253 - DEBUG - IP 74.125.96.135 resolved as AS: 15169
-2020-10-23 18:34:13,831 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:34:13,838 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:34:24,958 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=_luhn7TLfWU
-2020-10-23 18:34:24,958 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=_luhn7TLfWU
-2020-10-23 18:34:24,958 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=_luhn7TLfWU
-2020-10-23 18:34:24,959 - start_pytomo.py:761 - DEBUG - Crawl of url# 2: https://www.youtube.com/watch?v=c8rNJhJVBjw
-2020-10-23 18:34:24,959 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:34:24,959 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:24,960 - lib_youtube_download.py:299 - DEBUG - Download webpage c8rNJhJVBjw
-2020-10-23 18:34:26,882 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:34:26,882 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:34:26,882 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r3---sn-oguelnsl.googlevideo.com/videoplayback?expire=1603499666&ei=MiKTX9jzK_aKs8IP2YqPoAE&ip=34.84.17.201&id=o-AJgruAIm2PA7BYWtJR1lIWcMBdFrEn1jjtuv6R2nY_km&itag=18&source=youtube&requiressl=yes&mh=Jh&mm=31%2C29&mn=sn-oguelnsl%2Csn-ogul7n7k&ms=au%2Crdu&mv=m&mvi=3&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=9UGWyBBfwtW-yGQCH2vnu1MF&gir=yes&clen=13012909&ratebypass=yes&dur=272.114&lmt=1519490909013992&mt=1603477960&fvip=3&fexp=23915654&c=WEB&n=cSfJg3Q2Z4t1QpqgFugz&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANwgOm5fa1JQNkA5Hkz6pvlu-QPijpF44-EYIX9awHkaAiBjwcS8_A842eEg87HgEQCvNAfya_rUwpqP_K9kgx7xvg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgJ0r5jBjN7qIQ3mlEs4k5WHxHET0wInbxe6rAUQEWrFsCIQCq8YbRWMWmWbDajVf_f2zKspYrTv_Khl1cG965H7nx3g%3D%3D
-2020-10-23 18:34:26,945 - start_pytomo.py:724 - DEBUG - response_code: 302
-2020-10-23 18:34:27,269 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:34:27,270 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=c8rNJhJVBjw the cache urls are ['https://r3---sn-oguelnsl.googlevideo.com/videoplayback?expire=1603499666&ei=MiKTX9jzK_aKs8IP2YqPoAE&ip=34.84.17.201&id=o-AJgruAIm2PA7BYWtJR1lIWcMBdFrEn1jjtuv6R2nY_km&itag=18&source=youtube&requiressl=yes&mh=Jh&mm=31%2C29&mn=sn-oguelnsl%2Csn-ogul7n7k&ms=au%2Crdu&mv=m&mvi=3&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=9UGWyBBfwtW-yGQCH2vnu1MF&gir=yes&clen=13012909&ratebypass=yes&dur=272.114&lmt=1519490909013992&mt=1603477960&fvip=3&fexp=23915654&c=WEB&n=cSfJg3Q2Z4t1QpqgFugz&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANwgOm5fa1JQNkA5Hkz6pvlu-QPijpF44-EYIX9awHkaAiBjwcS8_A842eEg87HgEQCvNAfya_rUwpqP_K9kgx7xvg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgJ0r5jBjN7qIQ3mlEs4k5WHxHET0wInbxe6rAUQEWrFsCIQCq8YbRWMWmWbDajVf_f2zKspYrTv_Khl1cG965H7nx3g%3D%3D', 'https://r3---sn-npoe7ne6.googlevideo.com/videoplayback?expire=1603499666&ei=MiKTX9jzK_aKs8IP2YqPoAE&ip=34.84.17.201&id=o-AJgruAIm2PA7BYWtJR1lIWcMBdFrEn1jjtuv6R2nY_km&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=9UGWyBBfwtW-yGQCH2vnu1MF&gir=yes&clen=13012909&ratebypass=yes&dur=272.114&lmt=1519490909013992&fvip=3&fexp=23915654&c=WEB&n=cSfJg3Q2Z4t1QpqgFugz&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANwgOm5fa1JQNkA5Hkz6pvlu-QPijpF44-EYIX9awHkaAiBjwcS8_A842eEg87HgEQCvNAfya_rUwpqP_K9kgx7xvg%3D%3D&redirect_counter=1&cm2rm=sn-ogue7l7s&req_id=6397f7fe1eb3a3ee&cms_redirect=yes&mh=Jh&mm=34&mn=sn-npoe7ne6&ms=ltu&mt=1603477951&mv=m&mvi=3&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIge68zoQd9zVM2jZXRDQl-wAH3lVsPKDgF3PrE4Grz53wCICOXKsJTj65fGKVki2ckwU7APDcBROyeeJ3WwffxlCgm']
-2020-10-23 18:34:27,270 - translation_cache_url.py:90 - DEBUG - translating url: https://r3---sn-oguelnsl.googlevideo.com
-2020-10-23 18:34:27,270 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:34:27,270 - translation_cache_url.py:100 - DEBUG - url translated as: https://r3---sn-oguelnsl.googlevideo.com
-2020-10-23 18:34:27,270 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:34:27,272 - lib_dns.py:110 - DEBUG - URL r3---sn-oguelnsl.googlevideo.com resolved as: 173.194.51.8
-2020-10-23 18:34:27,272 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:34:27,400 - lib_dns.py:110 - DEBUG - URL r3---sn-oguelnsl.googlevideo.com resolved as: 173.194.51.8
-2020-10-23 18:34:27,400 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:34:27,444 - lib_dns.py:110 - DEBUG - URL r3---sn-oguelnsl.googlevideo.com resolved as: 173.194.51.8
-2020-10-23 18:34:27,444 - translation_cache_url.py:90 - DEBUG - translating url: https://r3---sn-npoe7ne6.googlevideo.com
-2020-10-23 18:34:27,444 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:34:27,444 - translation_cache_url.py:100 - DEBUG - url translated as: https://r3---sn-npoe7ne6.googlevideo.com
-2020-10-23 18:34:27,444 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.51.8
-2020-10-23 18:34:27,446 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:34:29,352 - start_pytomo.py:253 - DEBUG - IP 173.194.51.8 resolved as AS: 15169
-2020-10-23 18:34:29,352 - start_pytomo.py:260 - DEBUG - no status code found with this redirect_url: https://r3---sn-npoe7ne6.googlevideo.com
-2020-10-23 18:34:29,352 - start_pytomo.py:268 - INFO - new redirect urls: []
-2020-10-23 18:34:29,367 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:34:29,367 - translation_cache_url.py:90 - DEBUG - translating url: https://r3---sn-npoe7ne6.googlevideo.com
-2020-10-23 18:34:29,367 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:34:29,367 - translation_cache_url.py:100 - DEBUG - url translated as: https://r3---sn-npoe7ne6.googlevideo.com
-2020-10-23 18:34:29,368 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:34:29,369 - lib_dns.py:110 - DEBUG - URL r3---sn-npoe7ne6.googlevideo.com resolved as: 74.125.101.232
-2020-10-23 18:34:29,369 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:34:29,497 - lib_dns.py:110 - DEBUG - URL r3---sn-npoe7ne6.googlevideo.com resolved as: 74.125.101.232
-2020-10-23 18:34:29,497 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:34:29,569 - lib_dns.py:110 - DEBUG - URL r3---sn-npoe7ne6.googlevideo.com resolved as: 74.125.101.232
-2020-10-23 18:34:29,570 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.101.232
-2020-10-23 18:34:29,571 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:34:29,571 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:29,571 - lib_general_download.py:583 - DEBUG - Downloading url: https://r3---sn-npoe7ne6.googlevideo.com/videoplayback?expire=1603499666&ei=MiKTX9jzK_aKs8IP2YqPoAE&ip=34.84.17.201&id=o-AJgruAIm2PA7BYWtJR1lIWcMBdFrEn1jjtuv6R2nY_km&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=9UGWyBBfwtW-yGQCH2vnu1MF&gir=yes&clen=13012909&ratebypass=yes&dur=272.114&lmt=1519490909013992&fvip=3&fexp=23915654&c=WEB&n=cSfJg3Q2Z4t1QpqgFugz&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANwgOm5fa1JQNkA5Hkz6pvlu-QPijpF44-EYIX9awHkaAiBjwcS8_A842eEg87HgEQCvNAfya_rUwpqP_K9kgx7xvg%3D%3D&redirect_counter=1&cm2rm=sn-ogue7l7s&req_id=6397f7fe1eb3a3ee&cms_redirect=yes&mh=Jh&mm=34&mn=sn-npoe7ne6&ms=ltu&mt=1603477951&mv=m&mvi=3&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIge68zoQd9zVM2jZXRDQl-wAH3lVsPKDgF3PrE4Grz53wCICOXKsJTj65fGKVki2ckwU7APDcBROyeeJ3WwffxlCgm, on this ip: 74.125.101.232
-2020-10-23 18:34:29,903 - lib_general_download.py:890 - DEBUG - Content-length: 13012909.0
-2020-10-23 18:34:29,904 - lib_general_download.py:900 - DEBUG - start time: 1603478069.9
-2020-10-23 18:34:29,922 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:34:29,923 - factory.py:377 - WARNING - Name <open file '/tmp/tmpQjiUdW', mode 'r' at 0x7f7aec703300> is not string or buffer
-2020-10-23 18:34:29,923 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:29,923 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:29,923 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:29,923 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:29,923 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:29,923 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:29,923 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:34:29,923 - lib_general_download.py:820 - DEBUG - Content-length: 13012909.0
-2020-10-23 18:34:29,923 - factory.py:377 - WARNING - Name <open file '/tmp/tmpQjiUdW', mode 'r' at 0x7f7aec703e40> is not string or buffer
-2020-10-23 18:34:29,923 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:29,923 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:29,924 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:29,924 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:29,924 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:29,924 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:29,924 - factory.py:377 - WARNING - Name <open file '/tmp/tmpQjiUdW', mode 'r' at 0x7f7aec703e40> is not string or buffer
-2020-10-23 18:34:29,924 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:29,924 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:29,924 - mp4.py:478 - DEBUG - moov [16277]
-2020-10-23 18:34:29,924 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:29,924 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:34:29,924 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:34:29,924 - mp4.py:478 - DEBUG - trak [A025]
-2020-10-23 18:34:29,925 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:34:29,925 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 12.41M at 658.76kb/s ETA 00:19 Bytes 1024 Inst_thp 16655.2294561kb/s  cur_buf 0.0000002020-10-23 18:34:29,925 - factory.py:377 - WARNING - Name <open file '/tmp/tmpQjiUdW', mode 'r' at 0x7f7aec703e40> is not string or buffer
-2020-10-23 18:34:29,925 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:29,925 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:29,925 - mp4.py:478 - DEBUG - moov [16277]
-2020-10-23 18:34:29,925 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:29,925 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:34:29,925 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:34:29,925 - mp4.py:478 - DEBUG - trak [A025]
-2020-10-23 18:34:29,926 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:34:29,926 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:34:29,926 - lib_general_download.py:575 - DEBUG - Encoding rate is: 382.73kb/s
-[download]   0.0% of 12.41M at   1.13Mb/s ETA 00:10 Bytes 3072 Inst_thp 16618.9786544kb/s  cur_buf 0.000000[download]   0.1% of 12.41M at   2.55Mb/s ETA 00:04 Bytes 7168 Inst_thp 667179.385786kb/s  cur_buf 0.000000[download]   0.1% of 12.41M at   5.36Mb/s ETA 00:02 Bytes 15360 Inst_thp 2329473.78766kb/s  cur_buf 0.000000[download]   0.2% of 12.41M at 467.86kb/s ETA 00:27 Bytes 31744 Inst_thp 2065.78818103kb/s  cur_buf 0.000000[download]   0.5% of 12.41M at 489.06kb/s ETA 00:25 Bytes 64512 Inst_thp 4198.06737369kb/s  cur_buf 0.000000[download]   1.0% of 12.41M at 630.78kb/s ETA 00:19 Bytes 130048 Inst_thp 7240.44086065kb/s  cur_buf 0.000000[download]   2.0% of 12.41M at 936.63kb/s ETA 00:13 Bytes 261120 Inst_thp 14814.1730562kb/s  cur_buf 0.000000[download]   4.0% of 12.41M at   1.46Mb/s ETA 00:08 Bytes 523264 Inst_thp 30318.8095347kb/s  cur_buf 0.000000[download]   8.1% of 12.41M at   2.42Mb/s ETA 00:04 Bytes 1047552 Inst_thp 58734.5955009kb/s  cur_buf 0.000000[download]  16.1% of 12.41M at   4.13Mb/s ETA 00:02 Bytes 2096128 Inst_thp 117843.747786kb/s  cur_buf 0.000000[download]  32.2% of 12.41M at   7.20Mb/s ETA 00:01 Bytes 4193280 Inst_thp 237717.788032kb/s  cur_buf 0.000000[download]  64.5% of 12.41M at  12.31Mb/s ETA 00:00 Bytes 8387584 Inst_thp 355660.850971kb/s  cur_buf 0.000000[download]  96.7% of 12.41M at  16.13Mb/s ETA 00:00 Bytes 12581888 Inst_thp 356510.442582kb/s  cur_buf 0.000000[download] 100.0% of 12.41M at  16.52Mb/s ETA 00:00 Bytes 13012908 Inst_thp 473579.072027kb/s  cur_buf 0.0000002020-10-23 18:34:30,675 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:34:30,675 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:34:35,693 - start_pytomo.py:253 - DEBUG - IP 74.125.101.232 resolved as AS: 15169
-2020-10-23 18:34:35,693 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:34:35,702 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:34:46,775 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=c8rNJhJVBjw
-2020-10-23 18:34:46,775 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=c8rNJhJVBjw
-2020-10-23 18:34:46,775 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=c8rNJhJVBjw
-2020-10-23 18:34:46,775 - start_pytomo.py:761 - DEBUG - Crawl of url# 3: https://www.youtube.com/watch?v=OaPt-19C2No
-2020-10-23 18:34:46,775 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:34:46,776 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:46,777 - lib_youtube_download.py:299 - DEBUG - Download webpage OaPt-19C2No
-2020-10-23 18:34:48,702 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:34:48,702 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:34:48,702 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r6---sn-oguesnzs.googlevideo.com/videoplayback?expire=1603499688&ei=SCKTX_eoIeW0s8IPvuiwsAo&ip=34.84.17.201&id=o-AIYNGznXyL5DT9GD_jsVg5ujuiDg6bz2YENaEDQvoRNV&itag=18&source=youtube&requiressl=yes&mh=-S&mm=31%2C29&mn=sn-oguesnzs%2Csn-oguelnlz&ms=au%2Crdu&mv=m&mvi=6&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=o87K27k_AV1ZmtP0sGw-YJgF&gir=yes&clen=71222583&ratebypass=yes&dur=1025.880&lmt=1603308246162958&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=6410222&n=ytjHQRREOA3SvsvgP9Ut&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRfawT1g5zjH7FksHFdQFF9O8KUthuGukSAafNHmbRTUCIQDszO5ZrE30zgp7BAkegjxd7y7utb4549LpGk7ESav7aw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgP4iYEaunkTw9MTcx1ZhVMHu4P4kkAImIEG7ctJ53QUkCIBIDVImhaNt7V5DOYcXGmVlaL6_nPgBpDR9ImlsROp-K
-2020-10-23 18:34:48,768 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:34:48,769 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=OaPt-19C2No the cache urls are ['https://r6---sn-oguesnzs.googlevideo.com/videoplayback?expire=1603499688&ei=SCKTX_eoIeW0s8IPvuiwsAo&ip=34.84.17.201&id=o-AIYNGznXyL5DT9GD_jsVg5ujuiDg6bz2YENaEDQvoRNV&itag=18&source=youtube&requiressl=yes&mh=-S&mm=31%2C29&mn=sn-oguesnzs%2Csn-oguelnlz&ms=au%2Crdu&mv=m&mvi=6&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=o87K27k_AV1ZmtP0sGw-YJgF&gir=yes&clen=71222583&ratebypass=yes&dur=1025.880&lmt=1603308246162958&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=6410222&n=ytjHQRREOA3SvsvgP9Ut&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRfawT1g5zjH7FksHFdQFF9O8KUthuGukSAafNHmbRTUCIQDszO5ZrE30zgp7BAkegjxd7y7utb4549LpGk7ESav7aw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgP4iYEaunkTw9MTcx1ZhVMHu4P4kkAImIEG7ctJ53QUkCIBIDVImhaNt7V5DOYcXGmVlaL6_nPgBpDR9ImlsROp-K']
-2020-10-23 18:34:48,769 - translation_cache_url.py:90 - DEBUG - translating url: https://r6---sn-oguesnzs.googlevideo.com
-2020-10-23 18:34:48,769 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:34:48,769 - translation_cache_url.py:100 - DEBUG - url translated as: https://r6---sn-oguesnzs.googlevideo.com
-2020-10-23 18:34:48,769 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:34:48,770 - lib_dns.py:110 - DEBUG - URL r6---sn-oguesnzs.googlevideo.com resolved as: 74.125.106.204
-2020-10-23 18:34:48,771 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:34:48,813 - lib_dns.py:110 - DEBUG - URL r6---sn-oguesnzs.googlevideo.com resolved as: 74.125.106.204
-2020-10-23 18:34:48,813 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:34:48,855 - lib_dns.py:110 - DEBUG - URL r6---sn-oguesnzs.googlevideo.com resolved as: 74.125.106.204
-2020-10-23 18:34:48,856 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.106.204
-2020-10-23 18:34:48,857 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:34:48,857 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:34:48,857 - lib_general_download.py:583 - DEBUG - Downloading url: https://r6---sn-oguesnzs.googlevideo.com/videoplayback?expire=1603499688&ei=SCKTX_eoIeW0s8IPvuiwsAo&ip=34.84.17.201&id=o-AIYNGznXyL5DT9GD_jsVg5ujuiDg6bz2YENaEDQvoRNV&itag=18&source=youtube&requiressl=yes&mh=-S&mm=31%2C29&mn=sn-oguesnzs%2Csn-oguelnlz&ms=au%2Crdu&mv=m&mvi=6&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=o87K27k_AV1ZmtP0sGw-YJgF&gir=yes&clen=71222583&ratebypass=yes&dur=1025.880&lmt=1603308246162958&mt=1603477960&fvip=2&fexp=23915654&c=WEB&txp=6410222&n=ytjHQRREOA3SvsvgP9Ut&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRfawT1g5zjH7FksHFdQFF9O8KUthuGukSAafNHmbRTUCIQDszO5ZrE30zgp7BAkegjxd7y7utb4549LpGk7ESav7aw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgP4iYEaunkTw9MTcx1ZhVMHu4P4kkAImIEG7ctJ53QUkCIBIDVImhaNt7V5DOYcXGmVlaL6_nPgBpDR9ImlsROp-K, on this ip: 74.125.106.204
-2020-10-23 18:34:48,896 - lib_general_download.py:890 - DEBUG - Content-length: 71222583.0
-2020-10-23 18:34:48,896 - lib_general_download.py:900 - DEBUG - start time: 1603478088.9
-2020-10-23 18:34:48,896 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:34:48,897 - factory.py:377 - WARNING - Name <open file '/tmp/tmpptGhQD', mode 'r' at 0x7f7aec3d2b70> is not string or buffer
-2020-10-23 18:34:48,897 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:48,897 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:48,897 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:34:48,897 - lib_general_download.py:820 - DEBUG - Content-length: 71222583.0
-2020-10-23 18:34:48,897 - factory.py:377 - WARNING - Name <open file '/tmp/tmpptGhQD', mode 'r' at 0x7f7aec3d2a50> is not string or buffer
-2020-10-23 18:34:48,897 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:48,897 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:34:48,898 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:34:48,898 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:34:48,898 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:34:48,898 - factory.py:377 - WARNING - Name <open file '/tmp/tmpptGhQD', mode 'r' at 0x7f7aec3d2a50> is not string or buffer
-2020-10-23 18:34:48,898 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:48,898 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:48,898 - mp4.py:478 - DEBUG - moov [6E1BA]
-2020-10-23 18:34:48,898 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:48,898 - mp4.py:478 - DEBUG - trak [40A66]
-2020-10-23 18:34:48,898 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:34:48,898 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 67.92M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 16959.3970227kb/s  cur_buf 0.0000002020-10-23 18:34:48,898 - factory.py:377 - WARNING - Name <open file '/tmp/tmpptGhQD', mode 'r' at 0x7f7aec3d2a50> is not string or buffer
-2020-10-23 18:34:48,898 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:34:48,898 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:34:48,898 - mp4.py:478 - DEBUG - moov [6E1BA]
-2020-10-23 18:34:48,899 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:34:48,899 - mp4.py:478 - DEBUG - trak [40A66]
-2020-10-23 18:34:48,899 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:34:48,899 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:34:48,899 - lib_general_download.py:575 - DEBUG - Encoding rate is: 555.88kb/s
-[download]   0.0% of 67.92M at   1.88Mb/s ETA 00:35 Bytes 3072 Inst_thp 30447.2648365kb/s  cur_buf 0.000000[download]   0.0% of 67.92M at   4.21Mb/s ETA 00:16 Bytes 7168 Inst_thp 858993.4592kb/s  cur_buf 0.000000[download]   0.0% of 67.92M at   8.73Mb/s ETA 00:07 Bytes 15360 Inst_thp 2432547.84906kb/s  cur_buf 0.000000[download]   0.0% of 67.92M at  17.06Mb/s ETA 00:03 Bytes 31744 Inst_thp 1750814.69391kb/s  cur_buf 0.000000[download]   0.1% of 67.92M at  32.46Mb/s ETA 00:02 Bytes 64512 Inst_thp 2762592.02959kb/s  cur_buf 0.000000[download]   0.2% of 67.92M at  32.67Mb/s ETA 00:02 Bytes 130048 Inst_thp 284626.359766kb/s  cur_buf 0.000000[download]   0.4% of 67.92M at  38.06Mb/s ETA 00:01 Bytes 261120 Inst_thp 394054.87959kb/s  cur_buf 0.000000[download]   0.7% of 67.92M at  59.47Mb/s ETA 00:01 Bytes 523264 Inst_thp 1193499.73164kb/s  cur_buf 0.000000[download]   1.5% of 67.92M at  94.31Mb/s ETA 00:00 Bytes 1047552 Inst_thp 1984230.32308kb/s  cur_buf 0.000000[download]   2.9% of 67.92M at 146.48Mb/s ETA 00:00 Bytes 2096128 Inst_thp 2836763.04836kb/s  cur_buf 0.000000[download]   5.9% of 67.92M at  95.02Mb/s ETA 00:00 Bytes 4193280 Inst_thp 592209.85809kb/s  cur_buf 0.000000[download]  11.8% of 67.92M at  62.16Mb/s ETA 00:00 Bytes 8387584 Inst_thp 387997.310258kb/s  cur_buf 0.000000[download]  17.7% of 67.92M at  58.03Mb/s ETA 00:00 Bytes 12581888 Inst_thp 430599.246592kb/s  cur_buf 0.000000[download]  23.6% of 67.92M at  57.39Mb/s ETA 00:00 Bytes 16776192 Inst_thp 466642.423491kb/s  cur_buf 0.000000[download]  29.4% of 67.92M at  56.77Mb/s ETA 00:00 Bytes 20970496 Inst_thp 457101.663755kb/s  cur_buf 0.000000[download]  35.3% of 67.92M at  54.79Mb/s ETA 00:00 Bytes 25164800 Inst_thp 392188.111966kb/s  cur_buf 0.000000[download]  41.2% of 67.92M at  56.12Mb/s ETA 00:00 Bytes 29359104 Inst_thp 551556.992191kb/s  cur_buf 0.000000[download]  47.1% of 67.92M at  59.13Mb/s ETA 00:00 Bytes 33553408 Inst_thp 796071.544518kb/s  cur_buf 0.000000[download]  53.0% of 67.92M at  60.49Mb/s ETA 00:00 Bytes 37747712 Inst_thp 623711.973921kb/s  cur_buf 0.000000[download]  58.9% of 67.92M at  63.53Mb/s ETA 00:00 Bytes 41942016 Inst_thp 974771.355834kb/s  cur_buf 0.000000[download]  64.8% of 67.92M at  61.51Mb/s ETA 00:00 Bytes 46136320 Inst_thp 392179.368989kb/s  cur_buf 0.000000[download]  70.7% of 67.92M at  63.39Mb/s ETA 00:00 Bytes 50330624 Inst_thp 803543.834032kb/s  cur_buf 0.000000[download]  76.6% of 67.92M at  63.51Mb/s ETA 00:00 Bytes 54524928 Inst_thp 545794.539457kb/s  cur_buf 0.000000[download]  82.4% of 67.92M at  61.72Mb/s ETA 00:00 Bytes 58719232 Inst_thp 379390.30226kb/s  cur_buf 0.000000[download]  88.3% of 67.92M at  62.10Mb/s ETA 00:00 Bytes 62913536 Inst_thp 571527.437199kb/s  cur_buf 0.000000[download]  94.2% of 67.92M at  62.66Mb/s ETA 00:00 Bytes 67107840 Inst_thp 609538.175231kb/s  cur_buf 0.000000[download] 100.0% of 67.92M at  59.98Mb/s ETA 00:00 Bytes 71222582 Inst_thp 297130.932999kb/s  cur_buf 0.0000002020-10-23 18:34:50,032 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:34:50,032 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:34:55,124 - start_pytomo.py:253 - DEBUG - IP 74.125.106.204 resolved as AS: 15169
-2020-10-23 18:34:55,124 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:34:55,130 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:35:06,598 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=OaPt-19C2No
-2020-10-23 18:35:06,598 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=OaPt-19C2No
-2020-10-23 18:35:06,598 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=OaPt-19C2No
-2020-10-23 18:35:06,598 - start_pytomo.py:761 - DEBUG - Crawl of url# 4: https://www.youtube.com/watch?v=wtD4kt21ui4
-2020-10-23 18:35:06,598 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:35:06,598 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:06,599 - lib_youtube_download.py:299 - DEBUG - Download webpage wtD4kt21ui4
-2020-10-23 18:35:07,687 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:35:07,688 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:35:07,688 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r5---sn-ogul7nel.googlevideo.com/videoplayback?expire=1603499707&ei=WyKTX9LSIIywgQPt4JWQDw&ip=34.84.17.201&id=o-AIbuW1ByJ9OyMKglqESwhTTHcBUiVrVn66V3-gfIW5dd&itag=18&source=youtube&requiressl=yes&mh=xx&mm=31%2C26&mn=sn-ogul7nel%2Csn-qxa7snel&ms=au%2Conr&mv=m&mvi=5&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=4Np9z6Gt1Z7RH0u7e5p1hPoF&gir=yes&clen=13057847&ratebypass=yes&dur=174.033&lmt=1412954625650399&mt=1603477960&fvip=5&fexp=23915654&c=WEB&n=QVLokjhbV1nEdf0QWTsQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKqBP9P1hxrU0cQNRkqn__lm4SSaSDGMh3TBVJZfo7ufAiEA-8Zx_5qfXqnrqBTuGcyFvRW3dTpihWhJ-o6PEzK8IX4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIfIg2c1xK6L9E3gL-naYhxe8_SriVnukS7OVqcLIhAPAIhAIG-NapkQYk355d5ZbQiuBxYLyZmBFcb0vabHggKkR7x
-2020-10-23 18:35:07,779 - start_pytomo.py:724 - DEBUG - response_code: 302
-2020-10-23 18:35:08,187 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:35:08,188 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=wtD4kt21ui4 the cache urls are ['https://r5---sn-ogul7nel.googlevideo.com/videoplayback?expire=1603499707&ei=WyKTX9LSIIywgQPt4JWQDw&ip=34.84.17.201&id=o-AIbuW1ByJ9OyMKglqESwhTTHcBUiVrVn66V3-gfIW5dd&itag=18&source=youtube&requiressl=yes&mh=xx&mm=31%2C26&mn=sn-ogul7nel%2Csn-qxa7snel&ms=au%2Conr&mv=m&mvi=5&pl=20&initcwndbps=986250&vprv=1&mime=video%2Fmp4&ns=4Np9z6Gt1Z7RH0u7e5p1hPoF&gir=yes&clen=13057847&ratebypass=yes&dur=174.033&lmt=1412954625650399&mt=1603477960&fvip=5&fexp=23915654&c=WEB&n=QVLokjhbV1nEdf0QWTsQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKqBP9P1hxrU0cQNRkqn__lm4SSaSDGMh3TBVJZfo7ufAiEA-8Zx_5qfXqnrqBTuGcyFvRW3dTpihWhJ-o6PEzK8IX4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIfIg2c1xK6L9E3gL-naYhxe8_SriVnukS7OVqcLIhAPAIhAIG-NapkQYk355d5ZbQiuBxYLyZmBFcb0vabHggKkR7x', 'https://r5---sn-npoeenez.googlevideo.com/videoplayback?expire=1603499707&ei=WyKTX9LSIIywgQPt4JWQDw&ip=34.84.17.201&id=o-AIbuW1ByJ9OyMKglqESwhTTHcBUiVrVn66V3-gfIW5dd&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=4Np9z6Gt1Z7RH0u7e5p1hPoF&gir=yes&clen=13057847&ratebypass=yes&dur=174.033&lmt=1412954625650399&fvip=5&fexp=23915654&c=WEB&n=QVLokjhbV1nEdf0QWTsQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKqBP9P1hxrU0cQNRkqn__lm4SSaSDGMh3TBVJZfo7ufAiEA-8Zx_5qfXqnrqBTuGcyFvRW3dTpihWhJ-o6PEzK8IX4%3D&redirect_counter=1&cm2rm=sn-oguyy76&req_id=74ee54c2e766a3ee&cms_redirect=yes&mh=xx&mm=34&mn=sn-npoeenez&ms=ltu&mt=1603477951&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAN2Hm4wvSfHM0QnH8_dv9z9Wn5NKmpjcre7J-WzyZt-AAiEA2mplPvbIeO5JchNaJMQnLhSX4vKUKaN99XdQJ7uV99Q%3D']
-2020-10-23 18:35:08,188 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-ogul7nel.googlevideo.com
-2020-10-23 18:35:08,188 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:08,188 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-ogul7nel.googlevideo.com
-2020-10-23 18:35:08,188 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:35:08,189 - lib_dns.py:110 - DEBUG - URL r5---sn-ogul7nel.googlevideo.com resolved as: 74.125.102.138
-2020-10-23 18:35:08,189 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:35:08,192 - lib_dns.py:110 - DEBUG - URL r5---sn-ogul7nel.googlevideo.com resolved as: 74.125.102.138
-2020-10-23 18:35:08,192 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:35:08,231 - lib_dns.py:110 - DEBUG - URL r5---sn-ogul7nel.googlevideo.com resolved as: 74.125.102.138
-2020-10-23 18:35:08,231 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-npoeenez.googlevideo.com
-2020-10-23 18:35:08,231 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:08,231 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-npoeenez.googlevideo.com
-2020-10-23 18:35:08,231 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.102.138
-2020-10-23 18:35:08,233 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:35:13,699 - start_pytomo.py:253 - DEBUG - IP 74.125.102.138 resolved as AS: 15169
-2020-10-23 18:35:13,699 - start_pytomo.py:260 - DEBUG - no status code found with this redirect_url: https://r5---sn-npoeenez.googlevideo.com
-2020-10-23 18:35:13,700 - start_pytomo.py:268 - INFO - new redirect urls: []
-2020-10-23 18:35:13,706 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:35:13,706 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-npoeenez.googlevideo.com
-2020-10-23 18:35:13,706 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:13,706 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-npoeenez.googlevideo.com
-2020-10-23 18:35:13,706 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:35:13,708 - lib_dns.py:110 - DEBUG - URL r5---sn-npoeenez.googlevideo.com resolved as: 173.194.22.42
-2020-10-23 18:35:13,708 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:35:13,748 - lib_dns.py:110 - DEBUG - URL r5---sn-npoeenez.googlevideo.com resolved as: 173.194.22.42
-2020-10-23 18:35:13,748 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:35:13,786 - lib_dns.py:110 - DEBUG - URL r5---sn-npoeenez.googlevideo.com resolved as: 173.194.22.42
-2020-10-23 18:35:13,786 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.22.42
-2020-10-23 18:35:13,787 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:35:13,787 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:13,787 - lib_general_download.py:583 - DEBUG - Downloading url: https://r5---sn-npoeenez.googlevideo.com/videoplayback?expire=1603499707&ei=WyKTX9LSIIywgQPt4JWQDw&ip=34.84.17.201&id=o-AIbuW1ByJ9OyMKglqESwhTTHcBUiVrVn66V3-gfIW5dd&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=4Np9z6Gt1Z7RH0u7e5p1hPoF&gir=yes&clen=13057847&ratebypass=yes&dur=174.033&lmt=1412954625650399&fvip=5&fexp=23915654&c=WEB&n=QVLokjhbV1nEdf0QWTsQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKqBP9P1hxrU0cQNRkqn__lm4SSaSDGMh3TBVJZfo7ufAiEA-8Zx_5qfXqnrqBTuGcyFvRW3dTpihWhJ-o6PEzK8IX4%3D&redirect_counter=1&cm2rm=sn-oguyy76&req_id=74ee54c2e766a3ee&cms_redirect=yes&mh=xx&mm=34&mn=sn-npoeenez&ms=ltu&mt=1603477951&mv=m&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAN2Hm4wvSfHM0QnH8_dv9z9Wn5NKmpjcre7J-WzyZt-AAiEA2mplPvbIeO5JchNaJMQnLhSX4vKUKaN99XdQJ7uV99Q%3D, on this ip: 173.194.22.42
-2020-10-23 18:35:14,785 - lib_general_download.py:890 - DEBUG - Content-length: 13057847.0
-2020-10-23 18:35:14,786 - lib_general_download.py:900 - DEBUG - start time: 1603478114.79
-2020-10-23 18:35:14,805 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:35:14,805 - factory.py:377 - WARNING - Name <open file '/tmp/tmpH16_IQ', mode 'r' at 0x7f7aec703f60> is not string or buffer
-2020-10-23 18:35:14,805 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:14,805 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:14,805 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:14,805 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:14,805 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:14,805 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:14,805 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:35:14,805 - lib_general_download.py:820 - DEBUG - Content-length: 13057847.0
-2020-10-23 18:35:14,806 - factory.py:377 - WARNING - Name <open file '/tmp/tmpH16_IQ', mode 'r' at 0x7f7aec703300> is not string or buffer
-2020-10-23 18:35:14,806 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:14,806 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:14,806 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:14,806 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:14,806 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:14,806 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:14,806 - factory.py:377 - WARNING - Name <open file '/tmp/tmpH16_IQ', mode 'r' at 0x7f7aec703300> is not string or buffer
-2020-10-23 18:35:14,806 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:14,806 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:14,806 - mp4.py:478 - DEBUG - moov [D388]
-2020-10-23 18:35:14,806 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:14,806 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:35:14,806 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:35:14,806 - mp4.py:478 - DEBUG - trak [4D2E]
-2020-10-23 18:35:14,806 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:35:14,806 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 12.45M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 18878.9771253kb/s  cur_buf 0.0000002020-10-23 18:35:14,806 - factory.py:377 - WARNING - Name <open file '/tmp/tmpH16_IQ', mode 'r' at 0x7f7aec703300> is not string or buffer
-2020-10-23 18:35:14,807 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:14,807 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:14,807 - mp4.py:478 - DEBUG - moov [D388]
-2020-10-23 18:35:14,807 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:14,807 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:35:14,807 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:35:14,807 - mp4.py:478 - DEBUG - trak [4D2E]
-2020-10-23 18:35:14,807 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:35:14,807 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:35:14,807 - lib_general_download.py:575 - DEBUG - Encoding rate is: 600.36kb/s
-[download]   0.0% of 12.45M at   1.87Mb/s ETA 00:06 Bytes 3072 Inst_thp 30008.5051249kb/s  cur_buf 0.000000[download]   0.1% of 12.45M at   4.18Mb/s ETA 00:02 Bytes 7168 Inst_thp 961111.562741kb/s  cur_buf 0.000000[download]   0.1% of 12.45M at   8.57Mb/s ETA 00:01 Bytes 15360 Inst_thp 1717986.9184kb/s  cur_buf 0.000000[download]   0.2% of 12.45M at 471.17kb/s ETA 00:26 Bytes 31744 Inst_thp 2047.87378708kb/s  cur_buf 0.000000[download]   0.5% of 12.45M at 492.16kb/s ETA 00:25 Bytes 64512 Inst_thp 4221.24393033kb/s  cur_buf 0.000000[download]   1.0% of 12.45M at 640.83kb/s ETA 00:19 Bytes 130048 Inst_thp 7490.9072982kb/s  cur_buf 0.000000[download]   2.0% of 12.45M at 948.20kb/s ETA 00:13 Bytes 261120 Inst_thp 14862.2820732kb/s  cur_buf 0.000000[download]   4.0% of 12.45M at   1.48Mb/s ETA 00:08 Bytes 523264 Inst_thp 30515.0770578kb/s  cur_buf 0.000000[download]   8.0% of 12.45M at   2.45Mb/s ETA 00:04 Bytes 1047552 Inst_thp 60587.7070951kb/s  cur_buf 0.000000[download]  16.1% of 12.45M at   4.19Mb/s ETA 00:02 Bytes 2096128 Inst_thp 119787.596098kb/s  cur_buf 0.000000[download]  32.1% of 12.45M at   3.18Mb/s ETA 00:02 Bytes 4193280 Inst_thp 21488.424131kb/s  cur_buf 0.000000[download]  52.7% of 12.45M at   2.79Mb/s ETA 00:02 Bytes 6879333 Inst_thp 19599.7335504kb/s  cur_buf 0.000000[download]  71.4% of 12.45M at   3.09Mb/s ETA 00:01 Bytes 9329299 Inst_thp 37192.7535465kb/s  cur_buf 0.000000[download] 100.0% of 12.45M at   3.25Mb/s ETA 00:00 Bytes 13057846 Inst_thp 31405.1617548kb/s  cur_buf 0.0000002020-10-23 18:35:18,637 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:35:18,637 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:35:22,077 - start_pytomo.py:253 - DEBUG - IP 173.194.22.42 resolved as AS: 15169
-2020-10-23 18:35:22,077 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:35:22,082 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:35:33,051 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=wtD4kt21ui4
-2020-10-23 18:35:33,051 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=wtD4kt21ui4
-2020-10-23 18:35:33,051 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=wtD4kt21ui4
-2020-10-23 18:35:33,051 - start_pytomo.py:761 - DEBUG - Crawl of url# 5: https://www.youtube.com/watch?v=hoXj-j0VSTA
-2020-10-23 18:35:33,051 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:35:33,051 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:33,052 - lib_youtube_download.py:299 - DEBUG - Download webpage hoXj-j0VSTA
-2020-10-23 18:35:34,719 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:35:34,719 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:35:34,719 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r4---sn-ogueln7k.googlevideo.com/videoplayback?expire=1603499734&ei=diKTX_KBIoXL4QK-vJeoDQ&ip=34.84.17.201&id=o-ABBA7jgojaYG9mSDAyjDBBxpZjBKkZOrIUTrNznd7Qyl&itag=18&source=youtube&requiressl=yes&mh=te&mm=31%2C29&mn=sn-ogueln7k%2Csn-ogul7n7d&ms=au%2Crdu&mv=m&mvi=4&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=B0MTdU9E8V6PhyiglQjJq7wF&gir=yes&clen=3922462&ratebypass=yes&dur=53.405&lmt=1602609510796839&mt=1603477960&fvip=4&fexp=23915654&c=WEB&txp=6310222&n=Z9-uHnA2LJd6HhEQIouP&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSr8QLfEChvTMzJJ10XRtideALaJfEB1kzbs3dxDSQoAiEAspyIBrb61q6ie0YDW8ZYxIqtOSmpQmWkR0C5krXHQOQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN-o803zYxfsDqFPWPz3OHx7YZpqu213WqYBAiAbRhC9AiEAndGvJD5OY4RuNQrB3-Hx216-Bu9TJUIE1_ElCRKwH9c%3D
-2020-10-23 18:35:34,810 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:35:34,810 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=hoXj-j0VSTA the cache urls are ['https://r4---sn-ogueln7k.googlevideo.com/videoplayback?expire=1603499734&ei=diKTX_KBIoXL4QK-vJeoDQ&ip=34.84.17.201&id=o-ABBA7jgojaYG9mSDAyjDBBxpZjBKkZOrIUTrNznd7Qyl&itag=18&source=youtube&requiressl=yes&mh=te&mm=31%2C29&mn=sn-ogueln7k%2Csn-ogul7n7d&ms=au%2Crdu&mv=m&mvi=4&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=B0MTdU9E8V6PhyiglQjJq7wF&gir=yes&clen=3922462&ratebypass=yes&dur=53.405&lmt=1602609510796839&mt=1603477960&fvip=4&fexp=23915654&c=WEB&txp=6310222&n=Z9-uHnA2LJd6HhEQIouP&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSr8QLfEChvTMzJJ10XRtideALaJfEB1kzbs3dxDSQoAiEAspyIBrb61q6ie0YDW8ZYxIqtOSmpQmWkR0C5krXHQOQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN-o803zYxfsDqFPWPz3OHx7YZpqu213WqYBAiAbRhC9AiEAndGvJD5OY4RuNQrB3-Hx216-Bu9TJUIE1_ElCRKwH9c%3D']
-2020-10-23 18:35:34,810 - translation_cache_url.py:90 - DEBUG - translating url: https://r4---sn-ogueln7k.googlevideo.com
-2020-10-23 18:35:34,810 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:34,810 - translation_cache_url.py:100 - DEBUG - url translated as: https://r4---sn-ogueln7k.googlevideo.com
-2020-10-23 18:35:34,811 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:35:34,812 - lib_dns.py:110 - DEBUG - URL r4---sn-ogueln7k.googlevideo.com resolved as: 173.194.51.138
-2020-10-23 18:35:34,812 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:35:34,850 - lib_dns.py:110 - DEBUG - URL r4---sn-ogueln7k.googlevideo.com resolved as: 173.194.51.138
-2020-10-23 18:35:34,850 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:35:34,889 - lib_dns.py:110 - DEBUG - URL r4---sn-ogueln7k.googlevideo.com resolved as: 173.194.51.138
-2020-10-23 18:35:34,890 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.51.138
-2020-10-23 18:35:34,891 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:35:34,891 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:34,891 - lib_general_download.py:583 - DEBUG - Downloading url: https://r4---sn-ogueln7k.googlevideo.com/videoplayback?expire=1603499734&ei=diKTX_KBIoXL4QK-vJeoDQ&ip=34.84.17.201&id=o-ABBA7jgojaYG9mSDAyjDBBxpZjBKkZOrIUTrNznd7Qyl&itag=18&source=youtube&requiressl=yes&mh=te&mm=31%2C29&mn=sn-ogueln7k%2Csn-ogul7n7d&ms=au%2Crdu&mv=m&mvi=4&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=B0MTdU9E8V6PhyiglQjJq7wF&gir=yes&clen=3922462&ratebypass=yes&dur=53.405&lmt=1602609510796839&mt=1603477960&fvip=4&fexp=23915654&c=WEB&txp=6310222&n=Z9-uHnA2LJd6HhEQIouP&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSr8QLfEChvTMzJJ10XRtideALaJfEB1kzbs3dxDSQoAiEAspyIBrb61q6ie0YDW8ZYxIqtOSmpQmWkR0C5krXHQOQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN-o803zYxfsDqFPWPz3OHx7YZpqu213WqYBAiAbRhC9AiEAndGvJD5OY4RuNQrB3-Hx216-Bu9TJUIE1_ElCRKwH9c%3D, on this ip: 173.194.51.138
-2020-10-23 18:35:34,924 - lib_general_download.py:890 - DEBUG - Content-length: 3922462.0
-2020-10-23 18:35:34,924 - lib_general_download.py:900 - DEBUG - start time: 1603478134.92
-2020-10-23 18:35:34,924 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:35:34,924 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovRWhb', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:35:34,924 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:34,924 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:34,924 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:34,924 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:34,924 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:34,924 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:34,925 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:35:34,925 - lib_general_download.py:820 - DEBUG - Content-length: 3922462.0
-2020-10-23 18:35:34,925 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovRWhb', mode 'r' at 0x7f7aec703ae0> is not string or buffer
-2020-10-23 18:35:34,925 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:34,925 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:34,925 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:34,925 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:34,925 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:34,925 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:34,925 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovRWhb', mode 'r' at 0x7f7aec703ae0> is not string or buffer
-2020-10-23 18:35:34,925 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:34,925 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:34,925 - mp4.py:478 - DEBUG - moov [5C67]
-2020-10-23 18:35:34,925 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:34,925 - mp4.py:478 - DEBUG - trak [342F]
-2020-10-23 18:35:34,925 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:35:34,925 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 3.74M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 16416.5018481kb/s  cur_buf 0.0000002020-10-23 18:35:34,926 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovRWhb', mode 'r' at 0x7f7aec703ae0> is not string or buffer
-2020-10-23 18:35:34,926 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:34,926 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:34,926 - mp4.py:478 - DEBUG - moov [5C67]
-2020-10-23 18:35:34,926 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:34,926 - mp4.py:478 - DEBUG - trak [342F]
-2020-10-23 18:35:34,926 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:35:34,926 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:35:34,926 - lib_general_download.py:575 - DEBUG - Encoding rate is: 592.07kb/s
-[download]   0.1% of 3.74M at   1.98Mb/s ETA 00:01 Bytes 3072 Inst_thp 35532.3044137kb/s  cur_buf 0.000000[download]   0.2% of 3.74M at   4.41Mb/s ETA 00:00 Bytes 7168 Inst_thp 910191.744848kb/s  cur_buf 0.000000[download]   0.4% of 3.74M at   9.13Mb/s ETA 00:00 Bytes 15360 Inst_thp 2617884.82804kb/s  cur_buf 0.000000[download]   0.8% of 3.74M at  17.79Mb/s ETA 00:00 Bytes 31744 Inst_thp 1790735.55012kb/s  cur_buf 0.000000[download]   1.6% of 3.74M at  33.84Mb/s ETA 00:00 Bytes 64512 Inst_thp 2848475.71963kb/s  cur_buf 0.000000[download]   3.3% of 3.74M at  39.00Mb/s ETA 00:00 Bytes 130048 Inst_thp 400550.684071kb/s  cur_buf 0.000000[download]   6.7% of 3.74M at  51.47Mb/s ETA 00:00 Bytes 261120 Inst_thp 665765.44219kb/s  cur_buf 0.000000[download]  13.3% of 3.74M at  74.83Mb/s ETA 00:00 Bytes 523264 Inst_thp 1192852.32197kb/s  cur_buf 0.000000[download]  26.7% of 3.74M at 116.29Mb/s ETA 00:00 Bytes 1047552 Inst_thp 2284402.8106kb/s  cur_buf 0.000000[download]  53.4% of 3.74M at 178.87Mb/s ETA 00:00 Bytes 2096128 Inst_thp 3334063.49747kb/s  cur_buf 0.000000[download] 100.0% of 3.74M at 100.13Mb/s ETA 00:00 Bytes 3922461 Inst_thp 560053.065297kb/s  cur_buf 0.0000002020-10-23 18:35:34,962 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:35:34,962 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:35:34,963 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:35:34,969 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:35:45,912 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=hoXj-j0VSTA
-2020-10-23 18:35:45,912 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=hoXj-j0VSTA
-2020-10-23 18:35:45,913 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=hoXj-j0VSTA
-2020-10-23 18:35:45,913 - start_pytomo.py:761 - DEBUG - Crawl of url# 6: https://www.youtube.com/watch?v=nRxFGIoV_Aw
-2020-10-23 18:35:45,913 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:35:45,913 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:45,914 - lib_youtube_download.py:299 - DEBUG - Download webpage nRxFGIoV_Aw
-2020-10-23 18:35:47,854 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:35:47,855 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:35:47,855 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r1---sn-ogueln7z.googlevideo.com/videoplayback?expire=1603499747&ei=gyKTX5uZKILrqQHAspCYAw&ip=34.84.17.201&id=o-ABdUwJ3qmlc6dZ5JumAmX9rPqs1Hr4KV6LUAwom8-o5b&itag=18&source=youtube&requiressl=yes&mh=5z&mm=31%2C29&mn=sn-ogueln7z%2Csn-ogul7n76&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=JSK6CgZqAlz8qPGGw7LwaiMF&gir=yes&clen=23727902&ratebypass=yes&dur=370.590&lmt=1586883070716499&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=ulpLmZU-_x8RvtOgnJmV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSasqhDnehgzGspMR6SRhI4TsC_yu_IhbFw3H2Xom5yAiEAiGsW5x4vQYiMoNYGFDWjx9MnDf_fSIz4HUemBAImjS8%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgZ-_OyuufQ6iTYeBUvv0KGwYtF93vYwYEA_UJv77xr0ICIQCIhapZYdF2MB8AHFAXiCKC8YRcykY3LPPFKmCHoOJRxQ%3D%3D
-2020-10-23 18:35:48,003 - start_pytomo.py:724 - DEBUG - response_code: 302
-2020-10-23 18:35:48,362 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:35:48,362 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=nRxFGIoV_Aw the cache urls are ['https://r1---sn-ogueln7z.googlevideo.com/videoplayback?expire=1603499747&ei=gyKTX5uZKILrqQHAspCYAw&ip=34.84.17.201&id=o-ABdUwJ3qmlc6dZ5JumAmX9rPqs1Hr4KV6LUAwom8-o5b&itag=18&source=youtube&requiressl=yes&mh=5z&mm=31%2C29&mn=sn-ogueln7z%2Csn-ogul7n76&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=JSK6CgZqAlz8qPGGw7LwaiMF&gir=yes&clen=23727902&ratebypass=yes&dur=370.590&lmt=1586883070716499&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=ulpLmZU-_x8RvtOgnJmV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSasqhDnehgzGspMR6SRhI4TsC_yu_IhbFw3H2Xom5yAiEAiGsW5x4vQYiMoNYGFDWjx9MnDf_fSIz4HUemBAImjS8%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgZ-_OyuufQ6iTYeBUvv0KGwYtF93vYwYEA_UJv77xr0ICIQCIhapZYdF2MB8AHFAXiCKC8YRcykY3LPPFKmCHoOJRxQ%3D%3D', 'https://r1---sn-npoe7ne7.googlevideo.com/videoplayback?expire=1603499747&ei=gyKTX5uZKILrqQHAspCYAw&ip=34.84.17.201&id=o-ABdUwJ3qmlc6dZ5JumAmX9rPqs1Hr4KV6LUAwom8-o5b&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=JSK6CgZqAlz8qPGGw7LwaiMF&gir=yes&clen=23727902&ratebypass=yes&dur=370.590&lmt=1586883070716499&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=ulpLmZU-_x8RvtOgnJmV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSasqhDnehgzGspMR6SRhI4TsC_yu_IhbFw3H2Xom5yAiEAiGsW5x4vQYiMoNYGFDWjx9MnDf_fSIz4HUemBAImjS8%3D&redirect_counter=1&cm2rm=sn-ogure7e&req_id=3974bcfd025ca3ee&cms_redirect=yes&mh=5z&mm=34&mn=sn-npoe7ne7&ms=ltu&mt=1603478042&mv=u&mvi=1&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgeiPsvWX2yiGnyFXdAdq565mFIr8dtvw5Zs81tI5NamkCIQCPubngsbj0BxUOfhbA_CupKC-xhWoeUjYsqkDUVBm-wg%3D%3D']
-2020-10-23 18:35:48,362 - translation_cache_url.py:90 - DEBUG - translating url: https://r1---sn-ogueln7z.googlevideo.com
-2020-10-23 18:35:48,362 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:48,362 - translation_cache_url.py:100 - DEBUG - url translated as: https://r1---sn-ogueln7z.googlevideo.com
-2020-10-23 18:35:48,362 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:35:48,363 - lib_dns.py:110 - DEBUG - URL r1---sn-ogueln7z.googlevideo.com resolved as: 173.194.49.215
-2020-10-23 18:35:48,363 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:35:48,406 - lib_dns.py:110 - DEBUG - URL r1---sn-ogueln7z.googlevideo.com resolved as: 173.194.49.215
-2020-10-23 18:35:48,406 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:35:48,480 - lib_dns.py:110 - DEBUG - URL r1---sn-ogueln7z.googlevideo.com resolved as: 173.194.49.215
-2020-10-23 18:35:48,480 - translation_cache_url.py:90 - DEBUG - translating url: https://r1---sn-npoe7ne7.googlevideo.com
-2020-10-23 18:35:48,480 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:48,480 - translation_cache_url.py:100 - DEBUG - url translated as: https://r1---sn-npoe7ne7.googlevideo.com
-2020-10-23 18:35:48,480 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.49.215
-2020-10-23 18:35:48,481 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:35:48,481 - start_pytomo.py:260 - DEBUG - no status code found with this redirect_url: https://r1---sn-npoe7ne7.googlevideo.com
-2020-10-23 18:35:48,481 - start_pytomo.py:268 - INFO - new redirect urls: []
-2020-10-23 18:35:48,489 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:35:48,489 - translation_cache_url.py:90 - DEBUG - translating url: https://r1---sn-npoe7ne7.googlevideo.com
-2020-10-23 18:35:48,489 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:35:48,489 - translation_cache_url.py:100 - DEBUG - url translated as: https://r1---sn-npoe7ne7.googlevideo.com
-2020-10-23 18:35:48,490 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:35:48,491 - lib_dns.py:110 - DEBUG - URL r1---sn-npoe7ne7.googlevideo.com resolved as: 173.194.59.6
-2020-10-23 18:35:48,491 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:35:48,618 - lib_dns.py:110 - DEBUG - URL r1---sn-npoe7ne7.googlevideo.com resolved as: 173.194.59.6
-2020-10-23 18:35:48,618 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:35:48,660 - lib_dns.py:110 - DEBUG - URL r1---sn-npoe7ne7.googlevideo.com resolved as: 173.194.59.6
-2020-10-23 18:35:48,660 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.59.6
-2020-10-23 18:35:48,661 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:35:48,661 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:35:48,661 - lib_general_download.py:583 - DEBUG - Downloading url: https://r1---sn-npoe7ne7.googlevideo.com/videoplayback?expire=1603499747&ei=gyKTX5uZKILrqQHAspCYAw&ip=34.84.17.201&id=o-ABdUwJ3qmlc6dZ5JumAmX9rPqs1Hr4KV6LUAwom8-o5b&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=JSK6CgZqAlz8qPGGw7LwaiMF&gir=yes&clen=23727902&ratebypass=yes&dur=370.590&lmt=1586883070716499&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=ulpLmZU-_x8RvtOgnJmV&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANSasqhDnehgzGspMR6SRhI4TsC_yu_IhbFw3H2Xom5yAiEAiGsW5x4vQYiMoNYGFDWjx9MnDf_fSIz4HUemBAImjS8%3D&redirect_counter=1&cm2rm=sn-ogure7e&req_id=3974bcfd025ca3ee&cms_redirect=yes&mh=5z&mm=34&mn=sn-npoe7ne7&ms=ltu&mt=1603478042&mv=u&mvi=1&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgeiPsvWX2yiGnyFXdAdq565mFIr8dtvw5Zs81tI5NamkCIQCPubngsbj0BxUOfhbA_CupKC-xhWoeUjYsqkDUVBm-wg%3D%3D, on this ip: 173.194.59.6
-2020-10-23 18:35:49,635 - lib_general_download.py:890 - DEBUG - Content-length: 23727902.0
-2020-10-23 18:35:49,635 - lib_general_download.py:900 - DEBUG - start time: 1603478149.64
-2020-10-23 18:35:49,653 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:35:49,654 - factory.py:377 - WARNING - Name <open file '/tmp/tmpfOGEuB', mode 'r' at 0x7f7aec3d2a50> is not string or buffer
-2020-10-23 18:35:49,654 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:49,654 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:49,654 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:49,654 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:49,654 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:49,654 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:49,654 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:35:49,654 - lib_general_download.py:820 - DEBUG - Content-length: 23727902.0
-2020-10-23 18:35:49,654 - factory.py:377 - WARNING - Name <open file '/tmp/tmpfOGEuB', mode 'r' at 0x7f7aec3d2930> is not string or buffer
-2020-10-23 18:35:49,654 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:49,654 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:49,655 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:35:49,655 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:35:49,655 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:35:49,655 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:35:49,655 - factory.py:377 - WARNING - Name <open file '/tmp/tmpfOGEuB', mode 'r' at 0x7f7aec3d2930> is not string or buffer
-2020-10-23 18:35:49,655 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:49,655 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:49,655 - mp4.py:478 - DEBUG - moov [1C9D6]
-2020-10-23 18:35:49,655 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:49,655 - mp4.py:478 - DEBUG - trak [C182]
-2020-10-23 18:35:49,655 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 22.63M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 17970.5744603kb/s  cur_buf 0.0000002020-10-23 18:35:49,655 - factory.py:377 - WARNING - Name <open file '/tmp/tmpfOGEuB', mode 'r' at 0x7f7aec3d2930> is not string or buffer
-2020-10-23 18:35:49,655 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:35:49,655 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:35:49,655 - mp4.py:478 - DEBUG - moov [1C9D6]
-2020-10-23 18:35:49,655 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:35:49,656 - mp4.py:478 - DEBUG - trak [C182]
-2020-10-23 18:35:49,656 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:35:49,656 - lib_general_download.py:575 - DEBUG - Encoding rate is: 513.04kb/s
-[download]   0.0% of 22.63M at   2.06Mb/s ETA 00:10 Bytes 3072 Inst_thp 34936.1854276kb/s  cur_buf 0.000000[download]   0.0% of 22.63M at   4.60Mb/s ETA 00:04 Bytes 7168 Inst_thp 988769.449439kb/s  cur_buf 0.000000[download]   0.1% of 22.63M at   9.48Mb/s ETA 00:02 Bytes 15360 Inst_thp 1977538.89888kb/s  cur_buf 0.000000[download]   0.1% of 22.63M at 470.81kb/s ETA 00:49 Bytes 31744 Inst_thp 2040.75836299kb/s  cur_buf 0.000000[download]   0.3% of 22.63M at 500.20kb/s ETA 00:46 Bytes 64512 Inst_thp 4368.70627973kb/s  cur_buf 0.000000[download]   0.5% of 22.63M at 642.16kb/s ETA 00:35 Bytes 130048 Inst_thp 7311.43336343kb/s  cur_buf 0.000000[download]   1.1% of 22.63M at 838.82kb/s ETA 00:27 Bytes 261120 Inst_thp 9880.2088146kb/s  cur_buf 0.000000[download]   2.2% of 22.63M at   1.09Mb/s ETA 00:20 Bytes 523264 Inst_thp 13684.2618996kb/s  cur_buf 0.000000[download]   4.4% of 22.63M at   1.65Mb/s ETA 00:13 Bytes 1047552 Inst_thp 28018.7905548kb/s  cur_buf 0.000000[download]   8.8% of 22.63M at   2.62Mb/s ETA 00:07 Bytes 2096128 Inst_thp 53680.8660019kb/s  cur_buf 0.000000[download]  17.7% of 22.63M at   1.66Mb/s ETA 00:11 Bytes 4193280 Inst_thp 10234.7837854kb/s  cur_buf 0.000000[download]  23.1% of 22.63M at   1.26Mb/s ETA 00:13 Bytes 5472627 Inst_thp 5915.2483729kb/s  cur_buf 0.000000[download]  26.2% of 22.63M at   1.40Mb/s ETA 00:11 Bytes 6212033 Inst_thp 61118.7163215kb/s  cur_buf 0.000000[download]  32.4% of 22.63M at   1.46Mb/s ETA 00:10 Bytes 7690845 Inst_thp 14753.0611562kb/s  cur_buf 0.000000[download]  40.2% of 22.63M at   1.67Mb/s ETA 00:08 Bytes 9534977 Inst_thp 36333.1901388kb/s  cur_buf 0.000000[download]  55.7% of 22.63M at   1.74Mb/s ETA 00:05 Bytes 13223241 Inst_thp 16254.4916887kb/s  cur_buf 0.000000[download]  64.3% of 22.63M at   1.63Mb/s ETA 00:04 Bytes 15255052 Inst_thp 9597.3919842kb/s  cur_buf 0.000000[download]  69.3% of 22.63M at   1.70Mb/s ETA 00:04 Bytes 16454725 Inst_thp 34562.4913395kb/s  cur_buf 0.000000[download]  79.5% of 22.63M at   1.66Mb/s ETA 00:02 Bytes 18854071 Inst_thp 12036.0498633kb/s  cur_buf 0.000000[download]  85.8% of 22.63M at   1.72Mb/s ETA 00:01 Bytes 20358577 Inst_thp 25977.2671945kb/s  cur_buf 0.000000[download]  98.5% of 22.63M at   1.83Mb/s ETA 00:00 Bytes 23367589 Inst_thp 26112.4688138kb/s  cur_buf 0.000000[download] 100.0% of 22.63M at   1.85Mb/s ETA 00:00 Bytes 23727901 Inst_thp 162677.97606kb/s  cur_buf 0.0000002020-10-23 18:36:01,879 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:36:01,879 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:36:03,911 - start_pytomo.py:253 - DEBUG - IP 173.194.59.6 resolved as AS: 15169
-2020-10-23 18:36:03,911 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:36:03,920 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:15,189 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=nRxFGIoV_Aw
-2020-10-23 18:36:15,189 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=nRxFGIoV_Aw
-2020-10-23 18:36:15,189 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=nRxFGIoV_Aw
-2020-10-23 18:36:15,190 - start_pytomo.py:761 - DEBUG - Crawl of url# 7: https://www.youtube.com/watch?v=Q1kJvRhMfrg
-2020-10-23 18:36:15,190 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:36:15,190 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:15,191 - lib_youtube_download.py:299 - DEBUG - Download webpage Q1kJvRhMfrg
-2020-10-23 18:36:16,612 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:36:16,612 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:36:16,612 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r5---sn-oguelnlz.googlevideo.com/videoplayback?expire=1603499776&ei=oCKTX62fHIG04wLF46Ng&ip=34.84.17.201&id=o-AGnHxn3VOMTO55UEwp2zyY0thKlNrb-iQKBshE1a8509&itag=18&source=youtube&requiressl=yes&mh=dn&mm=31%2C29&mn=sn-oguelnlz%2Csn-ogul7nez&ms=au%2Crdu&mv=m&mvi=5&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=4g0IR4GzXY4IBAeUMGN4vIAF&gir=yes&clen=10474476&ratebypass=yes&dur=134.466&lmt=1238430453107658&mt=1603478074&fvip=5&fexp=23915654&c=WEB&n=W8UCqK4PPK6tUc6AJn-w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgCmj4gl3yNtWhZABgF1g1HWe4fpJAp9poJpF8X8wcT3UCIDZ8RTyPuO6NVbIWCu3cVoSYFzhnC1vNfyKjfe9xOYHZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJAK7lzgILrdOt4mKXYeCdTuK5Q5weridLmRWJLBijJ8AiBC4AJkeKMmaGG8D11pZCC0jBX6pykdNMIBiBPfqmudvQ%3D%3D
-2020-10-23 18:36:16,757 - start_pytomo.py:724 - DEBUG - response_code: 302
-2020-10-23 18:36:17,175 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:36:17,176 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=Q1kJvRhMfrg the cache urls are ['https://r5---sn-oguelnlz.googlevideo.com/videoplayback?expire=1603499776&ei=oCKTX62fHIG04wLF46Ng&ip=34.84.17.201&id=o-AGnHxn3VOMTO55UEwp2zyY0thKlNrb-iQKBshE1a8509&itag=18&source=youtube&requiressl=yes&mh=dn&mm=31%2C29&mn=sn-oguelnlz%2Csn-ogul7nez&ms=au%2Crdu&mv=m&mvi=5&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=4g0IR4GzXY4IBAeUMGN4vIAF&gir=yes&clen=10474476&ratebypass=yes&dur=134.466&lmt=1238430453107658&mt=1603478074&fvip=5&fexp=23915654&c=WEB&n=W8UCqK4PPK6tUc6AJn-w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgCmj4gl3yNtWhZABgF1g1HWe4fpJAp9poJpF8X8wcT3UCIDZ8RTyPuO6NVbIWCu3cVoSYFzhnC1vNfyKjfe9xOYHZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJAK7lzgILrdOt4mKXYeCdTuK5Q5weridLmRWJLBijJ8AiBC4AJkeKMmaGG8D11pZCC0jBX6pykdNMIBiBPfqmudvQ%3D%3D', 'https://r5---sn-npoe7nes.googlevideo.com/videoplayback?expire=1603499776&ei=oCKTX62fHIG04wLF46Ng&ip=34.84.17.201&id=o-AGnHxn3VOMTO55UEwp2zyY0thKlNrb-iQKBshE1a8509&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=4g0IR4GzXY4IBAeUMGN4vIAF&gir=yes&clen=10474476&ratebypass=yes&dur=134.466&lmt=1238430453107658&fvip=5&fexp=23915654&c=WEB&n=W8UCqK4PPK6tUc6AJn-w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgCmj4gl3yNtWhZABgF1g1HWe4fpJAp9poJpF8X8wcT3UCIDZ8RTyPuO6NVbIWCu3cVoSYFzhnC1vNfyKjfe9xOYHZ&redirect_counter=1&cm2rm=sn-oguyr76&req_id=ab779d803063a3ee&cms_redirect=yes&mh=dn&mm=34&mn=sn-npoe7nes&ms=ltu&mt=1603478042&mv=u&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgTTvqFYPiJPlg8X2yLMHVyskc7NaAYSGqNMvLzwvfaW8CIQCPh7-6mRr15d9vkUsw9psgdb0j7l9xK9o2ggm3U7hZ8w%3D%3D']
-2020-10-23 18:36:17,176 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-oguelnlz.googlevideo.com
-2020-10-23 18:36:17,176 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:36:17,176 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-oguelnlz.googlevideo.com
-2020-10-23 18:36:17,176 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:36:17,177 - lib_dns.py:110 - DEBUG - URL r5---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.234
-2020-10-23 18:36:17,177 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:36:17,216 - lib_dns.py:110 - DEBUG - URL r5---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.234
-2020-10-23 18:36:17,217 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:36:17,255 - lib_dns.py:110 - DEBUG - URL r5---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.234
-2020-10-23 18:36:17,255 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-npoe7nes.googlevideo.com
-2020-10-23 18:36:17,256 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:36:17,256 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-npoe7nes.googlevideo.com
-2020-10-23 18:36:17,256 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.106.234
-2020-10-23 18:36:17,257 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:17,257 - start_pytomo.py:260 - DEBUG - no status code found with this redirect_url: https://r5---sn-npoe7nes.googlevideo.com
-2020-10-23 18:36:17,257 - start_pytomo.py:268 - INFO - new redirect urls: []
-2020-10-23 18:36:17,262 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:17,263 - translation_cache_url.py:90 - DEBUG - translating url: https://r5---sn-npoe7nes.googlevideo.com
-2020-10-23 18:36:17,263 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:36:17,263 - translation_cache_url.py:100 - DEBUG - url translated as: https://r5---sn-npoe7nes.googlevideo.com
-2020-10-23 18:36:17,263 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:36:17,264 - lib_dns.py:110 - DEBUG - URL r5---sn-npoe7nes.googlevideo.com resolved as: 74.125.171.74
-2020-10-23 18:36:17,264 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:36:17,300 - lib_dns.py:110 - DEBUG - URL r5---sn-npoe7nes.googlevideo.com resolved as: 74.125.171.74
-2020-10-23 18:36:17,300 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:36:17,371 - lib_dns.py:110 - DEBUG - URL r5---sn-npoe7nes.googlevideo.com resolved as: 74.125.171.74
-2020-10-23 18:36:17,371 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.171.74
-2020-10-23 18:36:17,372 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:17,372 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:17,372 - lib_general_download.py:583 - DEBUG - Downloading url: https://r5---sn-npoe7nes.googlevideo.com/videoplayback?expire=1603499776&ei=oCKTX62fHIG04wLF46Ng&ip=34.84.17.201&id=o-AGnHxn3VOMTO55UEwp2zyY0thKlNrb-iQKBshE1a8509&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=4g0IR4GzXY4IBAeUMGN4vIAF&gir=yes&clen=10474476&ratebypass=yes&dur=134.466&lmt=1238430453107658&fvip=5&fexp=23915654&c=WEB&n=W8UCqK4PPK6tUc6AJn-w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgCmj4gl3yNtWhZABgF1g1HWe4fpJAp9poJpF8X8wcT3UCIDZ8RTyPuO6NVbIWCu3cVoSYFzhnC1vNfyKjfe9xOYHZ&redirect_counter=1&cm2rm=sn-oguyr76&req_id=ab779d803063a3ee&cms_redirect=yes&mh=dn&mm=34&mn=sn-npoe7nes&ms=ltu&mt=1603478042&mv=u&mvi=5&pl=20&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgTTvqFYPiJPlg8X2yLMHVyskc7NaAYSGqNMvLzwvfaW8CIQCPh7-6mRr15d9vkUsw9psgdb0j7l9xK9o2ggm3U7hZ8w%3D%3D, on this ip: 74.125.171.74
-2020-10-23 18:36:18,339 - lib_general_download.py:890 - DEBUG - Content-length: 10474476.0
-2020-10-23 18:36:18,339 - lib_general_download.py:900 - DEBUG - start time: 1603478178.34
-2020-10-23 18:36:18,358 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:36:18,358 - factory.py:377 - WARNING - Name <open file '/tmp/tmp09a2VH', mode 'r' at 0x7f7aec3d2930> is not string or buffer
-2020-10-23 18:36:18,358 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:18,358 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:18,358 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:18,359 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:18,359 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:36:18,359 - lib_general_download.py:820 - DEBUG - Content-length: 10474476.0
-2020-10-23 18:36:18,359 - factory.py:377 - WARNING - Name <open file '/tmp/tmp09a2VH', mode 'r' at 0x7f7aec3d29c0> is not string or buffer
-2020-10-23 18:36:18,359 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:18,359 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:18,359 - factory.py:377 - WARNING - Name <open file '/tmp/tmp09a2VH', mode 'r' at 0x7f7aec3d29c0> is not string or buffer
-2020-10-23 18:36:18,359 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:18,359 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:18,359 - mp4.py:478 - DEBUG - moov [AF3D]
-2020-10-23 18:36:18,359 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:36:18,360 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - trak [606D]
-2020-10-23 18:36:18,360 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 9.99M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 19099.3542902kb/s  cur_buf 0.0000002020-10-23 18:36:18,360 - factory.py:377 - WARNING - Name <open file '/tmp/tmp09a2VH', mode 'r' at 0x7f7aec3d29c0> is not string or buffer
-2020-10-23 18:36:18,360 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:18,360 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - moov [AF3D]
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - iods [15]
-2020-10-23 18:36:18,360 - mp4.py:503 - INFO - unhandled base atom iods
-2020-10-23 18:36:18,360 - mp4.py:478 - DEBUG - trak [606D]
-2020-10-23 18:36:18,360 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:36:18,360 - lib_general_download.py:575 - DEBUG - Encoding rate is: 625.34kb/s
-[download]   0.0% of 9.99M at   1.99Mb/s ETA 00:04 Bytes 3072 Inst_thp 31932.8423494kb/s  cur_buf 0.000000[download]   0.1% of 9.99M at   4.44Mb/s ETA 00:02 Bytes 7168 Inst_thp 838042.39922kb/s  cur_buf 0.000000[download]   0.1% of 9.99M at   9.18Mb/s ETA 00:01 Bytes 15360 Inst_thp 2181570.69003kb/s  cur_buf 0.000000[download]   0.3% of 9.99M at 475.96kb/s ETA 00:21 Bytes 31744 Inst_thp 2065.19839928kb/s  cur_buf 0.000000[download]   0.6% of 9.99M at 494.39kb/s ETA 00:20 Bytes 64512 Inst_thp 4215.14302496kb/s  cur_buf 0.000000[download]   1.2% of 9.99M at 643.27kb/s ETA 00:15 Bytes 130048 Inst_thp 7501.51207445kb/s  cur_buf 0.000000[download]   2.5% of 9.99M at 948.06kb/s ETA 00:10 Bytes 261120 Inst_thp 14681.8352137kb/s  cur_buf 0.000000[download]   5.0% of 9.99M at   1.48Mb/s ETA 00:06 Bytes 523264 Inst_thp 30964.3084225kb/s  cur_buf 0.000000[download]  10.0% of 9.99M at   2.46Mb/s ETA 00:03 Bytes 1047552 Inst_thp 60103.3349769kb/s  cur_buf 0.000000[download]  20.0% of 9.99M at   4.20Mb/s ETA 00:01 Bytes 2096128 Inst_thp 120939.665167kb/s  cur_buf 0.000000[download]  40.0% of 9.99M at   3.60Mb/s ETA 00:01 Bytes 4193280 Inst_thp 26486.8365856kb/s  cur_buf 0.000000[download]  71.6% of 9.99M at   3.13Mb/s ETA 00:00 Bytes 7504134 Inst_thp 22475.9165373kb/s  cur_buf 0.000000[download]  98.5% of 9.99M at   3.45Mb/s ETA 00:00 Bytes 10313623 Inst_thp 40059.3076667kb/s  cur_buf 0.000000[download] 100.0% of 9.99M at   3.50Mb/s ETA 00:00 Bytes 10474475 Inst_thp 1738820.06961kb/s  cur_buf 0.0000002020-10-23 18:36:21,209 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:36:21,209 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:36:26,186 - start_pytomo.py:253 - DEBUG - IP 74.125.171.74 resolved as AS: 15169
-2020-10-23 18:36:26,187 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:36:26,193 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:37,094 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=Q1kJvRhMfrg
-2020-10-23 18:36:37,094 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=Q1kJvRhMfrg
-2020-10-23 18:36:37,094 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=Q1kJvRhMfrg
-2020-10-23 18:36:37,094 - start_pytomo.py:761 - DEBUG - Crawl of url# 8: https://www.youtube.com/watch?v=UoIXfcM5568
-2020-10-23 18:36:37,094 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:36:37,094 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:37,095 - lib_youtube_download.py:299 - DEBUG - Download webpage UoIXfcM5568
-2020-10-23 18:36:38,387 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:36:38,388 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:36:38,388 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://i.ytimg.com/vi/UoIXfcM5568/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAnCos0VdfqUUyx0BtcU8rhTwODhg
-2020-10-23 18:36:38,707 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:36:38,708 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=UoIXfcM5568 the cache urls are ['https://i.ytimg.com/vi/UoIXfcM5568/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAnCos0VdfqUUyx0BtcU8rhTwODhg']
-2020-10-23 18:36:38,708 - translation_cache_url.py:90 - DEBUG - translating url: https://i.ytimg.com
-2020-10-23 18:36:38,708 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:36:38,708 - translation_cache_url.py:100 - DEBUG - url translated as: https://i.ytimg.com
-2020-10-23 18:36:38,708 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:36:38,709 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.25.246
-2020-10-23 18:36:38,709 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:36:38,750 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.175.246
-2020-10-23 18:36:38,750 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:36:38,787 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.175.246
-2020-10-23 18:36:38,788 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 172.217.175.246
-2020-10-23 18:36:38,789 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:43,061 - start_pytomo.py:253 - DEBUG - IP 172.217.175.246 resolved as AS: 15169
-2020-10-23 18:36:43,061 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 172.217.25.246
-2020-10-23 18:36:43,062 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:43,063 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:43,063 - lib_general_download.py:583 - DEBUG - Downloading url: https://i.ytimg.com/vi/UoIXfcM5568/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAnCos0VdfqUUyx0BtcU8rhTwODhg, on this ip: 172.217.25.246
-2020-10-23 18:36:43,144 - lib_general_download.py:890 - DEBUG - Content-length: 7395.0
-2020-10-23 18:36:43,144 - lib_general_download.py:900 - DEBUG - start time: 1603478203.14
-2020-10-23 18:36:43,144 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:36:43,144 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703270> is not string or buffer
-2020-10-23 18:36:43,144 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,144 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,144 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,144 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,145 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,145 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:36:43,145 - lib_general_download.py:820 - DEBUG - Content-length: 7395.0
-2020-10-23 18:36:43,145 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,145 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,145 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,145 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,145 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,145 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,146 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,146 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/avi
-[download]  13.8% of 7.22k at 858.43kb/s ETA 00:00 Bytes 1024 Inst_thp 12985.5398216kb/s  cur_buf 0.0000002020-10-23 18:36:43,146 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,146 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,146 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,146 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,146 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,146 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,147 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,147 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,147 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/avi
-[download]  41.5% of 7.22k at   1.35Mb/s ETA 00:00 Bytes 3072 Inst_thp 30982.6315311kb/s  cur_buf 0.0000002020-10-23 18:36:43,147 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,147 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,147 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,147 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,147 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,148 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,148 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,148 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,148 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/avi
-[download]  96.9% of 7.22k at   2.08Mb/s ETA 00:00 Bytes 7168 Inst_thp 54691.1872153kb/s  cur_buf 0.0000002020-10-23 18:36:43,148 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,148 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,148 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,148 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,149 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,149 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,149 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,149 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,149 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/avi
-[download] 100.0% of 7.22k at   1.58Mb/s ETA 00:00 Bytes 7394 Inst_thp 2616.73624293kb/s  cur_buf 0.0000002020-10-23 18:36:43,149 - factory.py:377 - WARNING - Name <open file '/tmp/tmpDEPYn6', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:43,149 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:43,149 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:43,149 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:43,150 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:43,150 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:43,150 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:36:43,150 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:36:45,628 - start_pytomo.py:253 - DEBUG - IP 172.217.25.246 resolved as AS: 15169
-2020-10-23 18:36:45,628 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:36:45,634 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:45,642 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:56,625 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=UoIXfcM5568
-2020-10-23 18:36:56,625 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=UoIXfcM5568
-2020-10-23 18:36:56,625 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=UoIXfcM5568
-2020-10-23 18:36:56,625 - start_pytomo.py:761 - DEBUG - Crawl of url# 9: https://www.youtube.com/watch?v=O6N-qYPE6qc
-2020-10-23 18:36:56,625 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:36:56,626 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:56,626 - lib_youtube_download.py:299 - DEBUG - Download webpage O6N-qYPE6qc
-2020-10-23 18:36:58,402 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:36:58,402 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:36:58,402 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://i.ytimg.com/vi/O6N-qYPE6qc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqeUJYTupKe1_PE3I63uTG15opqg
-2020-10-23 18:36:58,650 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:36:58,651 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=O6N-qYPE6qc the cache urls are ['https://i.ytimg.com/vi/O6N-qYPE6qc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqeUJYTupKe1_PE3I63uTG15opqg']
-2020-10-23 18:36:58,651 - translation_cache_url.py:90 - DEBUG - translating url: https://i.ytimg.com
-2020-10-23 18:36:58,651 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:36:58,651 - translation_cache_url.py:100 - DEBUG - url translated as: https://i.ytimg.com
-2020-10-23 18:36:58,651 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:36:58,652 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.25.246
-2020-10-23 18:36:58,652 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:36:58,655 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.175.246
-2020-10-23 18:36:58,655 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:36:58,694 - lib_dns.py:110 - DEBUG - URL i.ytimg.com resolved as: 172.217.175.246
-2020-10-23 18:36:58,694 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 172.217.175.246
-2020-10-23 18:36:58,695 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:58,695 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 172.217.25.246
-2020-10-23 18:36:58,696 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:36:58,696 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:36:58,696 - lib_general_download.py:583 - DEBUG - Downloading url: https://i.ytimg.com/vi/O6N-qYPE6qc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCqeUJYTupKe1_PE3I63uTG15opqg, on this ip: 172.217.25.246
-2020-10-23 18:36:59,064 - lib_general_download.py:890 - DEBUG - Content-length: 4329.0
-2020-10-23 18:36:59,064 - lib_general_download.py:900 - DEBUG - start time: 1603478219.06
-2020-10-23 18:36:59,065 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:36:59,065 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703c00> is not string or buffer
-2020-10-23 18:36:59,065 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,065 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,065 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,065 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,065 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,065 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:59,065 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:36:59,065 - lib_general_download.py:820 - DEBUG - Content-length: 4329.0
-2020-10-23 18:36:59,065 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,066 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,066 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:59,066 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,066 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,066 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,066 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,066 - factory.py:241 - DEBUG - trying video/avi
-[download]  23.7% of 4.23k at     ---b/s ETA --:-- Bytes 1024 Inst_thp 16752.6759473kb/s  cur_buf 0.0000002020-10-23 18:36:59,066 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,067 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,067 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,067 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:59,067 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,067 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,067 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,067 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,067 - factory.py:241 - DEBUG - trying video/avi
-[download]  71.0% of 4.23k at   1.35Mb/s ETA 00:00 Bytes 3072 Inst_thp 25844.1055795kb/s  cur_buf 0.0000002020-10-23 18:36:59,068 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,068 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,068 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,068 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,068 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,068 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,068 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,068 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:59,068 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,068 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,068 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,069 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,069 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/avi
-[download] 100.0% of 4.23k at   1.18Mb/s ETA 00:00 Bytes 4328 Inst_thp 13451.7608018kb/s  cur_buf 0.0000002020-10-23 18:36:59,069 - factory.py:377 - WARNING - Name <open file '/tmp/tmpXniZUD', mode 'r' at 0x7f7aec703d20> is not string or buffer
-2020-10-23 18:36:59,069 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:36:59,069 - mp4.py:213 - DEBUG - invalid header: '\x00\x10JF'
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:36:59,069 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:36:59,069 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:36:59,069 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:36:59,069 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:36:59,070 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:36:59,078 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:36:59,084 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:37:10,141 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=O6N-qYPE6qc
-2020-10-23 18:37:10,141 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=O6N-qYPE6qc
-2020-10-23 18:37:10,141 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=O6N-qYPE6qc
-2020-10-23 18:37:10,141 - start_pytomo.py:761 - DEBUG - Crawl of url# 10: https://www.youtube.com/watch?v=kJQP7kiw5Fk
-2020-10-23 18:37:10,141 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:37:10,141 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:10,141 - lib_youtube_download.py:299 - DEBUG - Download webpage kJQP7kiw5Fk
-2020-10-23 18:37:11,986 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'cos', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'c', 'cbrver', 'player_response']
-2020-10-23 18:37:11,987 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:37:11,988 - lib_youtube_download.py:341 - ERROR - Uncaught exception: list index out of range
-Traceback (most recent call last):
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 336, in get_cache_url
-    req_format=None)
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 182, in get_video_url_list
-    cache_url = video_info['player_response'][0].split('formats')[1].split('"url":"')[1].split('"')[0].replace('\u0026','&')
-IndexError: list index out of range
-2020-10-23 18:37:11,988 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=kJQP7kiw5Fk the cache urls are []
-2020-10-23 18:37:11,988 - start_pytomo.py:793 - ERROR - Error retrieving cache for: https://www.youtube.com/watch?v=kJQP7kiw5Fk
-2020-10-23 18:37:11,988 - start_pytomo.py:761 - DEBUG - Crawl of url# 10: https://www.youtube.com/watch?v=boq2DyeaYPA
-2020-10-23 18:37:11,989 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:37:11,989 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:11,989 - lib_youtube_download.py:299 - DEBUG - Download webpage boq2DyeaYPA
-2020-10-23 18:37:13,260 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:37:13,260 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:37:13,260 - lib_youtube_download.py:341 - ERROR - Uncaught exception: list index out of range
-Traceback (most recent call last):
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 336, in get_cache_url
-    req_format=None)
-  File "/home/davide_galv/pytomo/pytomo/lib_youtube_download.py", line 182, in get_video_url_list
-    cache_url = video_info['player_response'][0].split('formats')[1].split('"url":"')[1].split('"')[0].replace('\u0026','&')
-IndexError: list index out of range
-2020-10-23 18:37:13,260 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=boq2DyeaYPA the cache urls are []
-2020-10-23 18:37:13,260 - start_pytomo.py:793 - ERROR - Error retrieving cache for: https://www.youtube.com/watch?v=boq2DyeaYPA
-2020-10-23 18:37:13,261 - start_pytomo.py:761 - DEBUG - Crawl of url# 10: https://www.youtube.com/watch?v=XSpURiqvPMs
-2020-10-23 18:37:13,261 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:37:13,261 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:13,261 - lib_youtube_download.py:299 - DEBUG - Download webpage XSpURiqvPMs
-2020-10-23 18:37:14,654 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'host_language', 'ps', 'csn', 'innertube_api_version', 'cver', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:37:14,654 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:37:14,655 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r4---sn-oguesnze.googlevideo.com/videoplayback?expire=1603499834&ei=2iKTX6uDH5DQgAOx0KzQDQ&ip=34.84.17.201&id=o-AO545SxxuQDnAVIyb8ZuhkIp834I6F1U6SQhMm5iOkIf&itag=18&source=youtube&requiressl=yes&mh=Uo&mm=31%2C26&mn=sn-oguesnze%2Csn-qxa7snel&ms=au%2Conr&mv=m&mvi=4&pl=20&initcwndbps=1048750&vprv=1&mime=video%2Fmp4&ns=Fi-UsjKALP6e-4GXaxZ6zR0F&gir=yes&clen=6357991&ratebypass=yes&dur=93.576&lmt=1601968238104820&mt=1603478191&fvip=4&fexp=23915654&c=WEB&txp=6210222&n=aYeGQqUUNIbdffHA7Z9A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJCRDnZgjeZwJm1tv9y-o-wSDzuB1CjSctWq_pBz-ODdAiBOms8xX_i6SMF1H707RDeMku8v9TZRUCkc67VTEHpGvA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKlRlW7nq7_dNwX0ggDvtLvbNx4RKVT34_Cumyf_eNqhAiAzs--TXlcO1tAJftl-AQRBhEC-uUx0VXBh38wOgyUk-g%3D%3D
-2020-10-23 18:37:14,800 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:37:14,800 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=XSpURiqvPMs the cache urls are ['https://r4---sn-oguesnze.googlevideo.com/videoplayback?expire=1603499834&ei=2iKTX6uDH5DQgAOx0KzQDQ&ip=34.84.17.201&id=o-AO545SxxuQDnAVIyb8ZuhkIp834I6F1U6SQhMm5iOkIf&itag=18&source=youtube&requiressl=yes&mh=Uo&mm=31%2C26&mn=sn-oguesnze%2Csn-qxa7snel&ms=au%2Conr&mv=m&mvi=4&pl=20&initcwndbps=1048750&vprv=1&mime=video%2Fmp4&ns=Fi-UsjKALP6e-4GXaxZ6zR0F&gir=yes&clen=6357991&ratebypass=yes&dur=93.576&lmt=1601968238104820&mt=1603478191&fvip=4&fexp=23915654&c=WEB&txp=6210222&n=aYeGQqUUNIbdffHA7Z9A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJCRDnZgjeZwJm1tv9y-o-wSDzuB1CjSctWq_pBz-ODdAiBOms8xX_i6SMF1H707RDeMku8v9TZRUCkc67VTEHpGvA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKlRlW7nq7_dNwX0ggDvtLvbNx4RKVT34_Cumyf_eNqhAiAzs--TXlcO1tAJftl-AQRBhEC-uUx0VXBh38wOgyUk-g%3D%3D']
-2020-10-23 18:37:14,800 - translation_cache_url.py:90 - DEBUG - translating url: https://r4---sn-oguesnze.googlevideo.com
-2020-10-23 18:37:14,800 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:37:14,800 - translation_cache_url.py:100 - DEBUG - url translated as: https://r4---sn-oguesnze.googlevideo.com
-2020-10-23 18:37:14,800 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:37:14,801 - lib_dns.py:110 - DEBUG - URL r4---sn-oguesnze.googlevideo.com resolved as: 74.125.106.138
-2020-10-23 18:37:14,802 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:37:14,844 - lib_dns.py:110 - DEBUG - URL r4---sn-oguesnze.googlevideo.com resolved as: 74.125.106.138
-2020-10-23 18:37:14,845 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:37:14,916 - lib_dns.py:110 - DEBUG - URL r4---sn-oguesnze.googlevideo.com resolved as: 74.125.106.138
-2020-10-23 18:37:14,916 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.106.138
-2020-10-23 18:37:14,917 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:37:14,917 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:14,918 - lib_general_download.py:583 - DEBUG - Downloading url: https://r4---sn-oguesnze.googlevideo.com/videoplayback?expire=1603499834&ei=2iKTX6uDH5DQgAOx0KzQDQ&ip=34.84.17.201&id=o-AO545SxxuQDnAVIyb8ZuhkIp834I6F1U6SQhMm5iOkIf&itag=18&source=youtube&requiressl=yes&mh=Uo&mm=31%2C26&mn=sn-oguesnze%2Csn-qxa7snel&ms=au%2Conr&mv=m&mvi=4&pl=20&initcwndbps=1048750&vprv=1&mime=video%2Fmp4&ns=Fi-UsjKALP6e-4GXaxZ6zR0F&gir=yes&clen=6357991&ratebypass=yes&dur=93.576&lmt=1601968238104820&mt=1603478191&fvip=4&fexp=23915654&c=WEB&txp=6210222&n=aYeGQqUUNIbdffHA7Z9A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJCRDnZgjeZwJm1tv9y-o-wSDzuB1CjSctWq_pBz-ODdAiBOms8xX_i6SMF1H707RDeMku8v9TZRUCkc67VTEHpGvA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKlRlW7nq7_dNwX0ggDvtLvbNx4RKVT34_Cumyf_eNqhAiAzs--TXlcO1tAJftl-AQRBhEC-uUx0VXBh38wOgyUk-g%3D%3D, on this ip: 74.125.106.138
-2020-10-23 18:37:15,950 - lib_general_download.py:890 - DEBUG - Content-length: 6357991.0
-2020-10-23 18:37:15,951 - lib_general_download.py:900 - DEBUG - start time: 1603478235.95
-2020-10-23 18:37:15,951 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:37:15,951 - factory.py:377 - WARNING - Name <open file '/tmp/tmp6s9t2V', mode 'r' at 0x7f7aec4c6390> is not string or buffer
-2020-10-23 18:37:15,951 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:15,951 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:15,951 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:15,951 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:15,951 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:15,951 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:15,951 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:37:15,951 - lib_general_download.py:820 - DEBUG - Content-length: 6357991.0
-2020-10-23 18:37:15,951 - factory.py:377 - WARNING - Name <open file '/tmp/tmp6s9t2V', mode 'r' at 0x7f7aec4c6420> is not string or buffer
-2020-10-23 18:37:15,952 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:15,952 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:15,952 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:15,952 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:15,952 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:15,952 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:15,952 - factory.py:377 - WARNING - Name <open file '/tmp/tmp6s9t2V', mode 'r' at 0x7f7aec4c6420> is not string or buffer
-2020-10-23 18:37:15,952 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:15,952 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:15,952 - mp4.py:478 - DEBUG - moov [9635]
-2020-10-23 18:37:15,952 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:15,952 - mp4.py:478 - DEBUG - trak [5199]
-2020-10-23 18:37:15,952 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:37:15,952 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 6.06M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 16315.1654169kb/s  cur_buf 0.0000002020-10-23 18:37:15,953 - factory.py:377 - WARNING - Name <open file '/tmp/tmp6s9t2V', mode 'r' at 0x7f7aec4c6420> is not string or buffer
-2020-10-23 18:37:15,953 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:15,953 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:15,953 - mp4.py:478 - DEBUG - moov [9635]
-2020-10-23 18:37:15,953 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:15,953 - mp4.py:478 - DEBUG - trak [5199]
-2020-10-23 18:37:15,953 - mp4.py:382 - DEBUG - --> edts [36] (edit list)
-2020-10-23 18:37:15,953 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:37:15,953 - lib_general_download.py:575 - DEBUG - Encoding rate is: 546.92kb/s
-[download]   0.0% of 6.06M at   1.82Mb/s ETA 00:03 Bytes 3072 Inst_thp 27620.368463kb/s  cur_buf 0.000000[download]   0.1% of 6.06M at   4.06Mb/s ETA 00:01 Bytes 7168 Inst_thp 727190.230011kb/s  cur_buf 0.000000[download]   0.2% of 6.06M at   8.44Mb/s ETA 00:00 Bytes 15360 Inst_thp 2432547.84906kb/s  cur_buf 0.000000[download]   0.5% of 6.06M at  16.51Mb/s ETA 00:00 Bytes 31744 Inst_thp 1796587.62708kb/s  cur_buf 0.000000[download]   1.0% of 6.06M at  31.34Mb/s ETA 00:00 Bytes 64512 Inst_thp 2624132.76319kb/s  cur_buf 0.000000[download]   2.0% of 6.06M at   3.04Mb/s ETA 00:01 Bytes 130048 Inst_thp 13508.7585192kb/s  cur_buf 0.000000[download]   4.1% of 6.06M at   2.39Mb/s ETA 00:02 Bytes 261120 Inst_thp 16532.5177845kb/s  cur_buf 0.000000[download]   8.2% of 6.06M at   3.09Mb/s ETA 00:01 Bytes 523264 Inst_thp 36843.8176351kb/s  cur_buf 0.000000[download]  16.5% of 6.06M at   4.43Mb/s ETA 00:01 Bytes 1047552 Inst_thp 65282.9418739kb/s  cur_buf 0.000000[download]  33.0% of 6.06M at   6.67Mb/s ETA 00:00 Bytes 2096128 Inst_thp 113269.608334kb/s  cur_buf 0.000000[download]  66.0% of 6.06M at  12.86Mb/s ETA 00:00 Bytes 4193280 Inst_thp 1538921.93014kb/s  cur_buf 0.000000[download] 100.0% of 6.06M at   4.15Mb/s ETA 00:00 Bytes 6357990 Inst_thp 15071.0022126kb/s  cur_buf 0.0000002020-10-23 18:37:17,412 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:37:17,412 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:37:17,413 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:37:17,419 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:37:28,577 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=XSpURiqvPMs
-2020-10-23 18:37:28,578 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=XSpURiqvPMs
-2020-10-23 18:37:28,578 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=XSpURiqvPMs
-2020-10-23 18:37:28,578 - start_pytomo.py:761 - DEBUG - Crawl of url# 11: https://www.youtube.com/watch?v=YTZ-GZPTND8
-2020-10-23 18:37:28,578 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:37:28,578 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:28,579 - lib_youtube_download.py:299 - DEBUG - Download webpage YTZ-GZPTND8
-2020-10-23 18:37:30,181 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:37:30,181 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:37:30,181 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r1---sn-oguelnlz.googlevideo.com/videoplayback?expire=1603499850&ei=6iKTX763Aby0lQTj94yAAQ&ip=34.84.17.201&id=o-AE6c0Ng3OrQ-m0YtKz5cd8b1QaJhS4iUfcU2HkOvxzXN&itag=18&source=youtube&requiressl=yes&mh=k-&mm=31%2C29&mn=sn-oguelnlz%2Csn-oguesnzz&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=mpuQFoyEWgFWLRTRmbMB4-MF&gir=yes&clen=9001387&ratebypass=yes&dur=138.065&lmt=1602931433933114&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5530422&n=3OkaKi5MfDsdquywUxnU&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgVJbcVYzcDFS3cmpfGFK8-9b4aQIBPpT0q4gY8S1nYMcCIAOPcNN0sh4T7Efk-M1Ni0cexsyAIt0yTuQWZmdJBXd4&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgaO0-OGsYhINzNHbGY88T_X8DbXd5vq_nhccdsW8fIawCIHusRehaECfZYI-Q80eJ0Ptwxkl-Zk1LJYwP3keenamv
-2020-10-23 18:37:30,272 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:37:30,272 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=YTZ-GZPTND8 the cache urls are ['https://r1---sn-oguelnlz.googlevideo.com/videoplayback?expire=1603499850&ei=6iKTX763Aby0lQTj94yAAQ&ip=34.84.17.201&id=o-AE6c0Ng3OrQ-m0YtKz5cd8b1QaJhS4iUfcU2HkOvxzXN&itag=18&source=youtube&requiressl=yes&mh=k-&mm=31%2C29&mn=sn-oguelnlz%2Csn-oguesnzz&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=mpuQFoyEWgFWLRTRmbMB4-MF&gir=yes&clen=9001387&ratebypass=yes&dur=138.065&lmt=1602931433933114&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5530422&n=3OkaKi5MfDsdquywUxnU&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgVJbcVYzcDFS3cmpfGFK8-9b4aQIBPpT0q4gY8S1nYMcCIAOPcNN0sh4T7Efk-M1Ni0cexsyAIt0yTuQWZmdJBXd4&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgaO0-OGsYhINzNHbGY88T_X8DbXd5vq_nhccdsW8fIawCIHusRehaECfZYI-Q80eJ0Ptwxkl-Zk1LJYwP3keenamv']
-2020-10-23 18:37:30,273 - translation_cache_url.py:90 - DEBUG - translating url: https://r1---sn-oguelnlz.googlevideo.com
-2020-10-23 18:37:30,273 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:37:30,273 - translation_cache_url.py:100 - DEBUG - url translated as: https://r1---sn-oguelnlz.googlevideo.com
-2020-10-23 18:37:30,273 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:37:30,274 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.230
-2020-10-23 18:37:30,274 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:37:30,311 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.230
-2020-10-23 18:37:30,311 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:37:30,382 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnlz.googlevideo.com resolved as: 74.125.106.230
-2020-10-23 18:37:30,382 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.106.230
-2020-10-23 18:37:30,383 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:37:30,383 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:30,383 - lib_general_download.py:583 - DEBUG - Downloading url: https://r1---sn-oguelnlz.googlevideo.com/videoplayback?expire=1603499850&ei=6iKTX763Aby0lQTj94yAAQ&ip=34.84.17.201&id=o-AE6c0Ng3OrQ-m0YtKz5cd8b1QaJhS4iUfcU2HkOvxzXN&itag=18&source=youtube&requiressl=yes&mh=k-&mm=31%2C29&mn=sn-oguelnlz%2Csn-oguesnzz&ms=au%2Crdu&mv=m&mvi=1&pl=20&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=mpuQFoyEWgFWLRTRmbMB4-MF&gir=yes&clen=9001387&ratebypass=yes&dur=138.065&lmt=1602931433933114&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5530422&n=3OkaKi5MfDsdquywUxnU&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgVJbcVYzcDFS3cmpfGFK8-9b4aQIBPpT0q4gY8S1nYMcCIAOPcNN0sh4T7Efk-M1Ni0cexsyAIt0yTuQWZmdJBXd4&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgaO0-OGsYhINzNHbGY88T_X8DbXd5vq_nhccdsW8fIawCIHusRehaECfZYI-Q80eJ0Ptwxkl-Zk1LJYwP3keenamv, on this ip: 74.125.106.230
-2020-10-23 18:37:30,398 - lib_general_download.py:890 - DEBUG - Content-length: 9001387.0
-2020-10-23 18:37:30,398 - lib_general_download.py:900 - DEBUG - start time: 1603478250.4
-2020-10-23 18:37:30,399 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:37:30,399 - factory.py:377 - WARNING - Name <open file '/tmp/tmpKpEYlW', mode 'r' at 0x7f7aec4c6300> is not string or buffer
-2020-10-23 18:37:30,399 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:30,399 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:30,399 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:30,399 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:30,399 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:30,399 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:30,399 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:37:30,399 - lib_general_download.py:820 - DEBUG - Content-length: 9001387.0
-2020-10-23 18:37:30,399 - factory.py:377 - WARNING - Name <open file '/tmp/tmpKpEYlW', mode 'r' at 0x7f7aec4c6390> is not string or buffer
-2020-10-23 18:37:30,400 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:30,400 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:30,400 - factory.py:377 - WARNING - Name <open file '/tmp/tmpKpEYlW', mode 'r' at 0x7f7aec4c6390> is not string or buffer
-2020-10-23 18:37:30,400 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:30,400 - mp4.py:478 - DEBUG - moov [AC79]
-2020-10-23 18:37:30,400 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:30,400 - mp4.py:478 - DEBUG - trak [4871]
-2020-10-23 18:37:30,400 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 8.58M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 18036.6080672kb/s  cur_buf 0.0000002020-10-23 18:37:30,400 - factory.py:377 - WARNING - Name <open file '/tmp/tmpKpEYlW', mode 'r' at 0x7f7aec4c6390> is not string or buffer
-2020-10-23 18:37:30,400 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:30,400 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:30,401 - mp4.py:478 - DEBUG - moov [AC79]
-2020-10-23 18:37:30,401 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:30,401 - mp4.py:478 - DEBUG - trak [4871]
-2020-10-23 18:37:30,401 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:37:30,401 - lib_general_download.py:575 - DEBUG - Encoding rate is: 521.82kb/s
-[download]   0.0% of 8.58M at   2.04Mb/s ETA 00:04 Bytes 3072 Inst_thp 35624.4047361kb/s  cur_buf 0.000000[download]   0.1% of 8.58M at   4.43Mb/s ETA 00:01 Bytes 7168 Inst_thp 642238.100336kb/s  cur_buf 0.000000[download]   0.2% of 8.58M at   9.16Mb/s ETA 00:00 Bytes 15360 Inst_thp 2411209.71004kb/s  cur_buf 0.000000[download]   0.4% of 8.58M at  17.82Mb/s ETA 00:00 Bytes 31744 Inst_thp 1723372.45733kb/s  cur_buf 0.000000[download]   0.7% of 8.58M at  33.84Mb/s ETA 00:00 Bytes 64512 Inst_thp 2848475.71963kb/s  cur_buf 0.000000[download]   1.4% of 8.58M at  36.39Mb/s ETA 00:00 Bytes 130048 Inst_thp 340458.779308kb/s  cur_buf 0.000000[download]   2.9% of 8.58M at  48.83Mb/s ETA 00:00 Bytes 261120 Inst_thp 652142.127981kb/s  cur_buf 0.000000[download]   5.8% of 8.58M at  75.92Mb/s ETA 00:00 Bytes 523264 Inst_thp 1514218.11365kb/s  cur_buf 0.000000[download]  11.6% of 8.58M at 119.92Mb/s ETA 00:00 Bytes 1047552 Inst_thp 2483369.00683kb/s  cur_buf 0.000000[download]  23.3% of 8.58M at 179.06Mb/s ETA 00:00 Bytes 2096128 Inst_thp 3039161.44846kb/s  cur_buf 0.000000[download]  46.6% of 8.58M at 239.59Mb/s ETA 00:00 Bytes 4193280 Inst_thp 3091500.9304kb/s  cur_buf 0.000000[download]  93.2% of 8.58M at 276.08Mb/s ETA 00:00 Bytes 8387584 Inst_thp 2755344.53885kb/s  cur_buf 0.000000[download] 100.0% of 8.58M at 273.24Mb/s ETA 00:00 Bytes 9001386 Inst_thp 2089456.98189kb/s  cur_buf 0.0000002020-10-23 18:37:30,431 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:37:30,431 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:37:30,433 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:37:30,439 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:37:41,716 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=YTZ-GZPTND8
-2020-10-23 18:37:41,717 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=YTZ-GZPTND8
-2020-10-23 18:37:41,717 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=YTZ-GZPTND8
-2020-10-23 18:37:41,717 - start_pytomo.py:761 - DEBUG - Crawl of url# 12: https://www.youtube.com/watch?v=6Dh-RL__uN4
-2020-10-23 18:37:41,717 - lib_youtube_download.py:294 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
-2020-10-23 18:37:41,717 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:41,718 - lib_youtube_download.py:299 - DEBUG - Download webpage 6Dh-RL__uN4
-2020-10-23 18:37:43,601 - lib_youtube_download.py:160 - DEBUG - 25 keys of video_info are : ['fexp', 'enablecsi', 'fflags', 'cbr', 'account_playback_token', 'vss_host', 'csi_page_type', 'cr', 'cver', 'ps', 'csn', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'innertube_api_key', 'watermark', 'c', 'use_miniplayer_ui', 'root_ve_type', 'innertube_context_client_version', 'hl', 'cos', 'cbrver', 'player_response']
-2020-10-23 18:37:43,601 - lib_youtube_download.py:161 - DEBUG - video_info['account_playback_token'] : Token not found
-2020-10-23 18:37:43,601 - lib_youtube_download.py:345 - DEBUG - Cache url found: https://r1---sn-oguelnl7.googlevideo.com/videoplayback?expire=1603499863&ei=9yKTX8eyGofPgAO30IOQDg&ip=34.84.17.201&id=o-AEFB-GVPt7s_4ITSM4_2EkfXIeRQp-3XLq_ZAdHg7-Yj&itag=18&source=youtube&requiressl=yes&mh=bk&mm=31%2C26&mn=sn-oguelnl7%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=1&pl=20&gcr=us&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=13hqdRwuytX21j41Otv6tVQF&gir=yes&clen=9902543&ratebypass=yes&dur=134.559&lmt=1576616671846940&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=Wh0yjFAtze1pgKyg3bVd&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgQFc69KvK0w-kpQ6mXLnS5CfnM_QtzUtTp6nIn9G3IUsCIBpcNDFz7CB9WiMdlhQu4bHvq0PAnQlskZ9i894eoBdo&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMWarYs-Gl0CL5ULNneztcJf8610sHLkzGcRbbOK_F_YAiBk1OqAxiPbEZ6nXvSgJcZOLKKezRvCwWbYhYXJ7rhFZg%3D%3D
-2020-10-23 18:37:43,662 - start_pytomo.py:724 - DEBUG - response_code: 200
-2020-10-23 18:37:43,662 - start_pytomo.py:791 - DEBUG - For url=https://www.youtube.com/watch?v=6Dh-RL__uN4 the cache urls are ['https://r1---sn-oguelnl7.googlevideo.com/videoplayback?expire=1603499863&ei=9yKTX8eyGofPgAO30IOQDg&ip=34.84.17.201&id=o-AEFB-GVPt7s_4ITSM4_2EkfXIeRQp-3XLq_ZAdHg7-Yj&itag=18&source=youtube&requiressl=yes&mh=bk&mm=31%2C26&mn=sn-oguelnl7%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=1&pl=20&gcr=us&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=13hqdRwuytX21j41Otv6tVQF&gir=yes&clen=9902543&ratebypass=yes&dur=134.559&lmt=1576616671846940&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=Wh0yjFAtze1pgKyg3bVd&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgQFc69KvK0w-kpQ6mXLnS5CfnM_QtzUtTp6nIn9G3IUsCIBpcNDFz7CB9WiMdlhQu4bHvq0PAnQlskZ9i894eoBdo&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMWarYs-Gl0CL5ULNneztcJf8610sHLkzGcRbbOK_F_YAiBk1OqAxiPbEZ6nXvSgJcZOLKKezRvCwWbYhYXJ7rhFZg%3D%3D']
-2020-10-23 18:37:43,662 - translation_cache_url.py:90 - DEBUG - translating url: https://r1---sn-oguelnl7.googlevideo.com
-2020-10-23 18:37:43,662 - translation_cache_url.py:92 - DEBUG - no match
-2020-10-23 18:37:43,662 - translation_cache_url.py:100 - DEBUG - url translated as: https://r1---sn-oguelnl7.googlevideo.com
-2020-10-23 18:37:43,662 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 127.0.0.53
-2020-10-23 18:37:43,663 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnl7.googlevideo.com resolved as: 173.194.49.38
-2020-10-23 18:37:43,663 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
-2020-10-23 18:37:43,700 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnl7.googlevideo.com resolved as: 173.194.49.38
-2020-10-23 18:37:43,701 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
-2020-10-23 18:37:43,742 - lib_dns.py:110 - DEBUG - URL r1---sn-oguelnl7.googlevideo.com resolved as: 173.194.49.38
-2020-10-23 18:37:43,742 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 173.194.49.38
-2020-10-23 18:37:43,743 - lib_ping.py:99 - INFO - No RTT stats found
-2020-10-23 18:37:43,743 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
-2020-10-23 18:37:43,743 - lib_general_download.py:583 - DEBUG - Downloading url: https://r1---sn-oguelnl7.googlevideo.com/videoplayback?expire=1603499863&ei=9yKTX8eyGofPgAO30IOQDg&ip=34.84.17.201&id=o-AEFB-GVPt7s_4ITSM4_2EkfXIeRQp-3XLq_ZAdHg7-Yj&itag=18&source=youtube&requiressl=yes&mh=bk&mm=31%2C26&mn=sn-oguelnl7%2Csn-qxaeen7l&ms=au%2Conr&mv=m&mvi=1&pl=20&gcr=us&initcwndbps=5200000&vprv=1&mime=video%2Fmp4&ns=13hqdRwuytX21j41Otv6tVQF&gir=yes&clen=9902543&ratebypass=yes&dur=134.559&lmt=1576616671846940&mt=1603478074&fvip=1&fexp=23915654&c=WEB&txp=5431432&n=Wh0yjFAtze1pgKyg3bVd&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgQFc69KvK0w-kpQ6mXLnS5CfnM_QtzUtTp6nIn9G3IUsCIBpcNDFz7CB9WiMdlhQu4bHvq0PAnQlskZ9i894eoBdo&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMWarYs-Gl0CL5ULNneztcJf8610sHLkzGcRbbOK_F_YAiBk1OqAxiPbEZ6nXvSgJcZOLKKezRvCwWbYhYXJ7rhFZg%3D%3D, on this ip: 173.194.49.38
-2020-10-23 18:37:43,760 - lib_general_download.py:890 - DEBUG - Content-length: 9902543.0
-2020-10-23 18:37:43,760 - lib_general_download.py:900 - DEBUG - start time: 1603478263.76
-2020-10-23 18:37:43,760 - lib_general_download.py:612 - INFO - Not FLV
-2020-10-23 18:37:43,760 - factory.py:377 - WARNING - Name <open file '/tmp/tmp5d9Nbg', mode 'r' at 0x7f7aec703c90> is not string or buffer
-2020-10-23 18:37:43,760 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:43,760 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:43,760 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:43,760 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:43,760 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:43,760 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:43,760 - lib_general_download.py:79 - DEBUG - mime not found
-2020-10-23 18:37:43,760 - lib_general_download.py:820 - DEBUG - Content-length: 9902543.0
-2020-10-23 18:37:43,761 - factory.py:377 - WARNING - Name <open file '/tmp/tmp5d9Nbg', mode 'r' at 0x7f7aec703540> is not string or buffer
-2020-10-23 18:37:43,761 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:43,761 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:43,761 - factory.py:241 - DEBUG - trying video/flv
-2020-10-23 18:37:43,761 - factory.py:241 - DEBUG - trying video/mpeg
-2020-10-23 18:37:43,761 - mpeg.py:611 - INFO - trying mpeg-pes scan
-2020-10-23 18:37:43,761 - factory.py:241 - DEBUG - trying video/avi
-2020-10-23 18:37:43,761 - factory.py:377 - WARNING - Name <open file '/tmp/tmp5d9Nbg', mode 'r' at 0x7f7aec703540> is not string or buffer
-2020-10-23 18:37:43,761 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:43,761 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:43,761 - mp4.py:478 - DEBUG - moov [A966]
-2020-10-23 18:37:43,761 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:43,761 - mp4.py:478 - DEBUG - trak [47D6]
-2020-10-23 18:37:43,761 - mp4.py:284 - DEBUG - --> mdia information
-[download]   0.0% of 9.44M at     ---b/s ETA --:-- Bytes 1024 Inst_thp 15870.5488998kb/s  cur_buf 0.0000002020-10-23 18:37:43,762 - factory.py:377 - WARNING - Name <open file '/tmp/tmp5d9Nbg', mode 'r' at 0x7f7aec703540> is not string or buffer
-2020-10-23 18:37:43,762 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
-2020-10-23 18:37:43,762 - factory.py:241 - DEBUG - trying video/quicktime
-2020-10-23 18:37:43,762 - mp4.py:478 - DEBUG - moov [A966]
-2020-10-23 18:37:43,762 - mp4.py:478 - DEBUG - mvhd [6C]
-2020-10-23 18:37:43,762 - mp4.py:478 - DEBUG - trak [47D6]
-2020-10-23 18:37:43,762 - mp4.py:284 - DEBUG - --> mdia information
-2020-10-23 18:37:43,762 - lib_general_download.py:575 - DEBUG - Encoding rate is: 591.20kb/s
-[download]   0.0% of 9.44M at   1.95Mb/s ETA 00:04 Bytes 3072 Inst_thp 32770.3751722kb/s  cur_buf 0.000000[download]   0.1% of 9.44M at   4.35Mb/s ETA 00:02 Bytes 7168 Inst_thp 934958.867156kb/s  cur_buf 0.000000[download]   0.2% of 9.44M at   9.01Mb/s ETA 00:01 Bytes 15360 Inst_thp 2432547.84906kb/s  cur_buf 0.000000[download]   0.3% of 9.44M at  17.43Mb/s ETA 00:00 Bytes 31744 Inst_thp 1544257.90418kb/s  cur_buf 0.000000[download]   0.7% of 9.44M at  33.15Mb/s ETA 00:00 Bytes 64512 Inst_thp 2783573.74121kb/s  cur_buf 0.000000[download]   1.3% of 9.44M at  36.83Mb/s ETA 00:00 Bytes 130048 Inst_thp 359552.527069kb/s  cur_buf 0.000000[download]   2.6% of 9.44M at  43.34Mb/s ETA 00:00 Bytes 261120 Inst_thp 457700.750453kb/s  cur_buf 0.000000[download]   5.3% of 9.44M at  63.62Mb/s ETA 00:00 Bytes 523264 Inst_thp 1035078.02097kb/s  cur_buf 0.000000[download]  10.6% of 9.44M at  98.50Mb/s ETA 00:00 Bytes 1047552 Inst_thp 1888384.07518kb/s  cur_buf 0.000000[download]  21.2% of 9.44M at 152.99Mb/s ETA 00:00 Bytes 2096128 Inst_thp 2958907.75282kb/s  cur_buf 0.000000[download]  42.3% of 9.44M at 218.22Mb/s ETA 00:00 Bytes 4193280 Inst_thp 3249387.89147kb/s  cur_buf 0.000000[download]  84.7% of 9.44M at 162.39Mb/s ETA 00:00 Bytes 8387584 Inst_thp 1088751.69888kb/s  cur_buf 0.000000[download] 100.0% of 9.44M at 114.20Mb/s ETA 00:00 Bytes 9902542 Inst_thp 363681.310634kb/s  cur_buf 0.0000002020-10-23 18:37:43,843 - lib_general_download.py:846 - DEBUG - 
-Dowloaded complete video
-2020-10-23 18:37:43,843 - lib_general_download.py:621 - INFO - nb of interruptions: 0
-2020-10-23 18:37:43,845 - start_pytomo.py:268 - INFO - new redirect urls: [None]
-2020-10-23 18:37:43,853 - lib_database.py:281 - DEBUG - row added to table
-2020-10-23 18:37:54,924 - lib_youtube_api.py:153 - INFO - Found 12 links for url https://www.youtube.com/watch?v=6Dh-RL__uN4
-2020-10-23 18:37:54,924 - lib_youtube_api.py:162 - INFO - Found 0 related video links for url https://www.youtube.com/watch?v=6Dh-RL__uN4
-2020-10-23 18:37:54,926 - lib_youtube_api.py:187 - DEBUG - Selected 0 links for url https://www.youtube.com/watch?v=6Dh-RL__uN4
-2020-10-23 18:37:54,926 - start_pytomo.py:872 - DEBUG - next_urls: set([])
-2020-10-23 18:37:54,926 - start_pytomo.py:982 - WARNING - Crawl finished
-################################################################################
-2020-10-23 18:37:54,926 - start_pytomo.py:1517 - DEBUG - {'74.125.96': 15169, '0.0.0': 0, '173.194.51': 15169, '74.125.171': 15169, '173.194.49': 15169, '172.217.25': 15169, '173.194.59': 15169, '172.217.175': 15169, '74.125.101': 15169, '74.125.102': 15169, '173.194.22': 15169, '74.125.106': 15169}
-2020-10-23 18:37:54,926 - start_pytomo.py:1223 - CRITICAL - Hash of database file: 23a96cce25498bbe147471fd95a9a6e6
