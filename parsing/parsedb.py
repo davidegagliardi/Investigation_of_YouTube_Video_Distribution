@@ -10,7 +10,22 @@ import time
 import pandas as pd
 import csv
 
+
+#Current used locations, every db file must be in a folder named as the location
+# Example
+# ----db_2020_10_23_m
+#     --aalto
+#       --aalto.db
+#     --america
+#       --america.db
+#     --australia
+#       --australia.db
+#     --tokyo
+#       --tokyo.db
+#     --parsedb.py
+
 list_instances=['aalto','america','australia','tokyo']
+#Switch m/e
 type_test="m"
 
 fields=["Location","TestME","ID","Url","CacheUrl","IP","ASNumber","PingAVG","TimeToGetFirstByte","RedirectUrl","StatusCode"]
