@@ -27,4 +27,4 @@ Start the crawl:
 
 The result will be saved inside the `databases` folder (SQLite file) and `logs` folder (log file)
 
-The SQLite can be easily open with an online tool (https://sqliteonline.com/) or parsed thanks to script present in the `parsing` folder.
+The SQLite can be easily opened with an online tool (https://sqliteonline.com/) or parsed thanks to script present in the `parsing` folder.
