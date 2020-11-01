@@ -2,4 +2,4 @@
 apt update
 apt install python --yes
 apt install python3-pip --yes
-pip3 install pandas --yes
+pip3 install pandas
