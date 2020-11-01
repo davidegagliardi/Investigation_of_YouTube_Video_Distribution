@@ -17,12 +17,12 @@ git clone https://github.com/davidegagliardi/Investigation_of_YouTube_Video_Dist
 Enter in the folder and set up the environment:
 ```sh
 cd Investigation_of_YouTube_Video_Distribution
-sudo sh setup_env.sh
+[~/Investigation_of_YouTube_Video_Distribution] sudo sh setup_env.sh
 ```
 
 Start the crawl:
 ```sh
-python start_crawl.py $(cat videolist.txt)
+[~/Investigation_of_YouTube_Video_Distribution] python start_crawl.py $(cat videolist.txt)
 ```
 
 The result will be saved inside the `databases` folder (SQLite file) and `logs` folder (log file)
